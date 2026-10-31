@@ -86,8 +86,8 @@ O GitHub **não aceita a senha da conta** para Git. Se você usar a senha, o Arc
 6. **Generate token** e **copie na hora** (começa com `ghp_…`; o GitHub **não mostra de novo**).
    Guarde num gerenciador de senhas. **Nunca** cole o token em chat, README ou commit.
 
-> Prefere *Fine-grained token*? Em **Repository access** escolha `magalu-arquitetura` e em
-> **Repository permissions ▸ Contents** coloque **Read and write** (o padrão é só leitura e dá *not authorized*).
+> **Use o token *classic*.** Tokens *fine-grained* só acessam repositórios **do dono do token** — como o
+> repositório é do Henrique, o token fine-grained dos colegas **não funciona** (dá *not authorized*).
 
 **Testar o token** (opcional, no terminal Linux/macOS — o token não aparece na tela):
 
