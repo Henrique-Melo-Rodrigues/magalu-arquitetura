@@ -1,0 +1,23 @@
+# .gitignore do repositório coArchi (magalu-arquitetura)
+#
+# ⚠️ NUNCA ignore model/, images/, *.xml ou *.png:
+#    o coArchi deixaria de commitar o modelo SEM AVISAR.
+
+# Cópias do modelo (o modelo oficial é a pasta model/)
+*.archimate
+*.archimate.bak
+*.bak
+
+# Relatórios/exportações (anexe em Releases, não no repositório)
+/report/
+/html-report/
+/export/
+
+# Sistema operacional / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+*.swp
+.idea/
+.vscode/
