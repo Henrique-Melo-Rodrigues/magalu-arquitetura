@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Calcular o limite pré-aprovado com dados próprios"
+    id="id-afce7377a3c34076bb61189073fe04b1"
+    documentation="O limite deve usar o histórico de compras e pagamentos do cliente no Magalu."/>

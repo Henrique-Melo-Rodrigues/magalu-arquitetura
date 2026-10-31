@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mesma oferta de crédito em todos os canais"
+    id="id-8c2f1a1e483e41b9b2901bc20f3158bf"
+    documentation="App, site, loja física e WhatsApp da Lu devem consumir o mesmo serviço de crédito."/>

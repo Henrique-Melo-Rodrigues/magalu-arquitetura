@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aprovar o crédito em poucos segundos"
+    id="id-7c1fcd5eb2004e1f90912b5ebaf16c9d"
+    documentation="A decisão de crédito deve ocorrer durante o checkout, sem tela ou etapa separada."/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dados do cliente são ativo da empresa"
+    id="id-cf93a39b36804fedb62ddb2e008f92ea"
+    documentation="Declaração: Os dados de compras, pagamentos e relacionamento dos clientes do Magalu são um ativo estratégico e devem ser usados nas decisões de concessão de crédito.&#xA;&#xA;Justificativa: O histórico de mais de 30 milhões de clientes ativos (compras, carnê, crediário) é a principal vantagem do Magalu sobre bancos tradicionais na avaliação de risco. Segundo Moody e Walsh, a informação é um ativo cujo valor aumenta com o uso e com a integração.&#xA;&#xA;Implicações:&#xA;- Os dados precisam estar unificados e com qualidade (cadastro único do cliente).&#xA;- É obrigatório respeitar a LGPD (base legal, consentimento e transparência).&#xA;- É necessário investir em governança de dados."/>

@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prevenção a fraude"
+    id="id-f00eef18e27847ccb9a6d79a4173bed8"
+    documentation="Validar a identidade do cliente (biometria facial)."/>

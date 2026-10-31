@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Suportar picos de vendas"
+    id="id-6d3a845237d44233b415b9a45478372a"
+    documentation=" A solução deve manter o desempenho em datas como a Black Friday."/>

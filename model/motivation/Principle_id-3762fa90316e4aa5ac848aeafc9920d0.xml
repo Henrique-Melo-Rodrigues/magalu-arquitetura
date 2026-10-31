@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conformidade regulatória desde o início"
+    id="id-3762fa90316e4aa5ac848aeafc9920d0"
+    documentation="Declaração: Toda solução de crédito deve nascer em conformidade com as regras do Banco Central e com a LGPD, e não ser ajustada depois.&#xA;&#xA;Justificativa: A MagaluPay é uma Sociedade de Crédito, Financiamento e Investimento (SCFI) autorizada pelo Banco Central desde fevereiro de 2025. Descumprir regras pode gerar multas e até perda da licença.&#xA;&#xA;Implicações:&#xA;- A área de compliance participa do projeto desde o começo.&#xA;- Os sistemas devem gerar registros e relatórios exigidos pelo regulador.&#xA;- Os contratos de crédito devem ser claros e armazenados de forma segura."/>

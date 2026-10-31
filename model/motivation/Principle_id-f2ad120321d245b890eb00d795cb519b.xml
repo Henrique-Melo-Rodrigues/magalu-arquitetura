@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Decisão de crédito em tempo real"
+    id="id-f2ad120321d245b890eb00d795cb519b"
+    documentation="Declaração: A decisão de crédito deve ser tomada no momento da compra, em poucos segundos, sem que o cliente precise sair do checkout.&#xA;&#xA;Justificativa: Cada etapa extra na hora de pagar aumenta a desistência da compra. O crédito pré-aprovado e instantâneo aumenta a conversão e o ticket médio.&#xA;&#xA;Implicações:&#xA;- É necessário um motor de crédito automatizado, com limites pré-calculados.&#xA;- A infraestrutura deve ter baixa latência e aguentar picos (ex: Black Friday).&#xA;- A validação antifraude (biometria facial) também precisa ser rápida."/>

@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reutilizar a Magalu Cloud antes de contratar fora"
+    id="id-cfc92528db7846e5b91fb445523287cf"
+    documentation="Declaração: Novas soluções devem usar preferencialmente a infraestrutura da Magalu Cloud e componentes já existentes do ecossistema, antes de contratar soluções externas.&#xA;&#xA;Justificativa: O Magalu já possui nuvem própria. Reaproveitá-la reduz custos, aumenta o controle sobre os dados de crédito e diminui a dependência de fornecedores.&#xA;&#xA;Implicações:&#xA;- Avaliar primeiro se a Magalu Cloud atende aos requisitos de desempenho e segurança.&#xA;- Contratar soluções externas só quando houver justificativa técnica ou de custo.&#xA;- Atenção ao risco de lock-in tecnológico, inclusive com a própria plataforma."/>

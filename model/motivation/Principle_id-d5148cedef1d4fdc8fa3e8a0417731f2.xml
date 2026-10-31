@@ -1,0 +1,5 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crédito disponível em todos os canais"
+    id="id-d5148cedef1d4fdc8fa3e8a0417731f2"
+    documentation="Declaração: A oferta de crédito da MagaluPay deve estar disponível de forma igual em todos os canais de venda: aplicativo, site, loja física e WhatsApp da Lu.&#xA;&#xA;Justificativa: A estratégia do Magalu é omnicanal. Um cliente com crédito aprovado no app deve ter a mesma condição na loja física, evitando perda de vendas e experiências diferentes.&#xA;&#xA;Implicações:&#xA;- Todos os canais devem consumir o mesmo serviço de crédito (API única).&#xA;- Regras de crédito não podem ficar duplicadas dentro de cada canal.&#xA;- O vendedor da loja precisa de acesso à mesma oferta que o cliente vê no app."/>
