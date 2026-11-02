@@ -1,0 +1,12 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G2 Crédito da MagaluPay em todos os canais"
+    id="id-2f78c19fc65840bca74a667df54cb1e6"
+    documentation="Hoje a MagaluPay decide o crédito nas lojas; no app, site e WhatsApp a oferta ainda é parcial.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="projeto (Fase E)"
+      value="P3, P4, P5, P6"/>
+</archimate:Gap>

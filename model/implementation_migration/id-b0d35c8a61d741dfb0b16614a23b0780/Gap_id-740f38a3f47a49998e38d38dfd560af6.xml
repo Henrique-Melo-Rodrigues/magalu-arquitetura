@@ -1,0 +1,12 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G5 Fim da carteira antiga do varejo"
+    id="id-740f38a3f47a49998e38d38dfd560af6"
+    documentation="Os contratos antigos são encerrados e todo o crédito fica na MagaluPay.">
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="projeto (Fase E)"
+      value="P10 (novo)"/>
+</archimate:Gap>

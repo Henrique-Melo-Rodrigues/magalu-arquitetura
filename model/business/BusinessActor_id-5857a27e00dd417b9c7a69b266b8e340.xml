@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente"
+    id="id-5857a27e00dd417b9c7a69b266b8e340"
+    documentation="Pessoa que compra no Magalu e pode parcelar a compra no crédito."/>

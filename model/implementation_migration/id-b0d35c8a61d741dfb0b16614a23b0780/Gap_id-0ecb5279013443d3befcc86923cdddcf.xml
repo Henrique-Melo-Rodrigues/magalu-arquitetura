@@ -1,0 +1,12 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G3 Contratação e cobrança sem papel"
+    id="id-0ecb5279013443d3befcc86923cdddcf"
+    documentation="Contrato e carnê impressos dão lugar a contrato digital com biometria e pagamento por Pix ou boleto digital.">
+  <properties
+      key="operação"
+      value="eliminate + create"/>
+  <properties
+      key="projeto (Fase E)"
+      value="P6, P7, P8"/>
+</archimate:Gap>

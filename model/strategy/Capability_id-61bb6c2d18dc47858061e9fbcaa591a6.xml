@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de risco da carteira"
+    id="id-61bb6c2d18dc47858061e9fbcaa591a6"
+    documentation="Controlar a inadimplência e as provisões da carteira de crédito própria.">
+  <properties
+      key="gap (baseline 2T26)"
+      value="criar"/>
+</archimate:Capability>
