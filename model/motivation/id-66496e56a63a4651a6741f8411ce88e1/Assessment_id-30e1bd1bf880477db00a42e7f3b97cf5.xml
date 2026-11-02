@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contrato e carnê ainda em papel"
+    id="id-30e1bd1bf880477db00a42e7f3b97cf5"
+    documentation="Contrato e carnê ainda são impressos na loja.">
+  <properties
+      key="fonte"
+      value="premissa do grupo"/>
+</archimate:Assessment>

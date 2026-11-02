@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vendedor da loja"
+    id="id-e704b5d3700441c3992012391013a05a"
+    documentation="Atende o cliente no balcão. No target, apresenta uma oferta pronta em vez de digitar a proposta."/>

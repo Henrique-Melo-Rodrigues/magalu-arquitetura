@@ -1,0 +1,12 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="G4 Gestão de risco da carteira"
+    id="id-57249a9a841f4f95880e00353b9d79e4"
+    documentation="Com crédito próprio, o Magalu assume o risco. A Área de Risco precisa provisionar perdas e reportar ao Banco Central.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="projeto (Fase E)"
+      value="P9 (novo)"/>
+</archimate:Gap>

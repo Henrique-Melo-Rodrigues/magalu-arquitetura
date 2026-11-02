@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="T2 Exibir oferta no checkout"
+    id="id-170ac1ac676a4b418a9251d1093d76ec"
+    documentation="O checkout mostra limite, parcelas e custo total, igual em todos os canais."/>

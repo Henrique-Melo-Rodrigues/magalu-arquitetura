@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente não vê o limite antes de pedir"
+    id="id-f91c33ab65864ba7b38a6d4d3d072298"
+    documentation="O cliente só descobre se tem crédito depois de fazer a proposta.">
+  <properties
+      key="fonte"
+      value="premissa do grupo"/>
+</archimate:Assessment>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="limite pronto"
+    id="id-ef32ebd7b9c6450abbede36273c423ac">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-18784f487cc546b3bbaecc4a6cd4b6dc.xml#id-18784f487cc546b3bbaecc4a6cd4b6dc"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-170ac1ac676a4b418a9251d1093d76ec.xml#id-170ac1ac676a4b418a9251d1093d76ec"/>
+</archimate:FlowRelationship>

@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Patrocinador"
-    id="id-16978127710e4bfb95b7d6b1dd1955e8"/>
+    id="id-16978127710e4bfb95b7d6b1dd1955e8"
+    documentation="Aprova o escopo e as entregas do trabalho de arquitetura. Exercido pela Diretoria do Magalu."/>
