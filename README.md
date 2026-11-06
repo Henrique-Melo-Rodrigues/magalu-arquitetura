@@ -15,7 +15,7 @@ Pull Request. Ferramentas: **Archi 5.x** + plugin **coArchi** (testado com 0.9.7
 |---|---|---|---|
 | `0 - preliminar` | Princípios de Arquitetura · Equipe de Arquitetura | `main` | ✅ Concluída |
 | `A - Vision` | Stakeholders, Drivers e Objetivos · Realização de Objetivos · Capacidades e Cadeia de Valor · Declaração de Trabalho | `main` | ✅ Concluída |
-| `B - Business` | 1. Atores e papéis · 2. Baseline (processo atual 2T26) · 3. Target (processo futuro + capacidades) · 4. Gap analysis | `main` | ✅ Concluída e integrada · 🔍 em revisão final (Henrique) |
+| `B - Business` | 1. Atores e papéis · 2. Baseline (processo atual 2T26) · 3. Target (processo futuro + capacidades) · 4. Gap analysis | `main` | ✅ Concluída |
 | `C - Information Systems` | — | `aluno/<nome>-faseC` | ⏳ A fazer |
 | `D - Technology` | — | `aluno/<nome>-faseD` | ⏳ A fazer |
 | `E - Opportunities and Solutions` | — | `aluno/<nome>-faseE` | ⏳ A fazer |
