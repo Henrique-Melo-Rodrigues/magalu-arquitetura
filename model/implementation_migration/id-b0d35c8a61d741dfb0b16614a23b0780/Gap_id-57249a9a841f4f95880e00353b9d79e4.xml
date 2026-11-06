@@ -2,11 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="G4 Gestão de risco da carteira"
     id="id-57249a9a841f4f95880e00353b9d79e4"
-    documentation="Com crédito próprio, o Magalu assume o risco. A Área de Risco precisa provisionar perdas e reportar ao Banco Central.">
+    documentation="Com crédito próprio, o Magalu assume o risco. A Área de Risco precisa provisionar perdas e reportar ao Banco Central. Meta da Vision (OE4): NPL 90 abaixo de 8% até dez/2028.">
   <properties
       key="operação"
       value="create"/>
   <properties
       key="projeto (Fase E)"
       value="P9 (novo)"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE4"/>
 </archimate:Gap>

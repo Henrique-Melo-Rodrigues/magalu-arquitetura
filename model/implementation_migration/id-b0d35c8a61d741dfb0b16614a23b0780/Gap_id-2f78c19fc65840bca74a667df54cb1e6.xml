@@ -2,11 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="G2 Crédito da MagaluPay em todos os canais"
     id="id-2f78c19fc65840bca74a667df54cb1e6"
-    documentation="Hoje a MagaluPay decide o crédito nas lojas; no app, site e WhatsApp a oferta ainda é parcial.">
+    documentation="Hoje a MagaluPay decide o crédito nas lojas; no app, site e WhatsApp a oferta ainda é parcial (penetração de produtos financeiros: 5% no digital contra 40% nas lojas). Metas da Vision: penetração no digital de 15% até dez/2027 e 25% até dez/2028 (OE2) e 100% do crédito ao consumidor de todos os canais originado pela SCFI (OE1).">
   <properties
       key="operação"
       value="create"/>
   <properties
       key="projeto (Fase E)"
       value="P3, P4, P5, P6"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE1, OE2"/>
 </archimate:Gap>

@@ -2,11 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="G1 Decisão no checkout com limite pré-aprovado"
     id="id-902a76cb78a54683bf6c0ced87ec1b03"
-    documentation="Hoje o crédito é pedido e analisado fora do checkout. No target, o limite já está calculado e a oferta aparece na hora da compra.">
+    documentation="Hoje o crédito é pedido e analisado fora do checkout. No target, o limite já está calculado e a oferta aparece na hora da compra, competindo com o parcelado sem juros no cartão de terceiros (principal substituto, Fase A).">
   <properties
       key="operação"
       value="create"/>
   <properties
       key="projeto (Fase E)"
       value="P1, P2, P3"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE2"/>
 </archimate:Gap>
