@@ -2,11 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="G5 Fim da carteira antiga do varejo"
     id="id-740f38a3f47a49998e38d38dfd560af6"
-    documentation="Os contratos antigos são encerrados e todo o crédito fica na MagaluPay.">
+    documentation="Os contratos antigos são encerrados e todo o crédito fica na MagaluPay. Meta da Vision (OE1): carteira legada de R$ 1,5 bi encerrada até dez/2027.">
   <properties
       key="operação"
       value="eliminate"/>
   <properties
       key="projeto (Fase E)"
       value="P10 (novo)"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE1"/>
 </archimate:Gap>
