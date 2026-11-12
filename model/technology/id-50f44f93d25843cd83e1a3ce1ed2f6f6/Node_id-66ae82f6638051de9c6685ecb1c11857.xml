@@ -1,0 +1,12 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Magalu Cloud - região BR-SE1 (produção)"
+    id="id-66ae82f6638051de9c6685ecb1c11857"
+    documentation="Região de produção do crédito. A Magalu Cloud opera duas regiões no Brasil (BR-SE1 e BR-NE1); escolher a SE1 como principal é hipótese do grupo.">
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:Node>

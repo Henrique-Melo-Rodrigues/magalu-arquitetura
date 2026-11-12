@@ -1,0 +1,12 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Armazenamento de objetos (Object Storage, compatível com S3)"
+    id="id-6de3e9db6b555ce2ab9b4bd2e91d19ad"
+    documentation="Guarda contratos digitais e evidências, com retenção e réplica para a região de recuperação.">
+  <properties
+      key="gap (Fase D)"
+      value="GT2"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:SystemSoftware>

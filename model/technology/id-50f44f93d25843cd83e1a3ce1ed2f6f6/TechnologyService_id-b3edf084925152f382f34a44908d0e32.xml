@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Banco de dados transacional do crédito"
+    id="id-b3edf084925152f382f34a44908d0e32"
+    documentation="Guarda propostas, decisões, parcelas, posição da carteira e cadastro, com backup."/>

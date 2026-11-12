@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contêiner: Gestão de Risco e Reporte Regulatório"
+    id="id-de6f4503be9f513bb7cfb7307014675c"
+    documentation="Imagem de contêiner do componente &quot;Gestão de Risco e Reporte Regulatório&quot; (Fase C), guardada no Container Registry e executada no cluster.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Artifact>

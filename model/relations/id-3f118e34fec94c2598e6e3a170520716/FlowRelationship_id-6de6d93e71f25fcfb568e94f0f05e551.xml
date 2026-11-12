@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="limite pré-aprovado"
+    id="id-6de6d93e71f25fcfb568e94f0f05e551">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5facf6f216cf542690c5bce6235900a2.xml#id-5facf6f216cf542690c5bce6235900a2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-de4d4be2792f5c8796c127c8ad4acce0.xml#id-de4d4be2792f5c8796c127c8ad4acce0"/>
+</archimate:FlowRelationship>

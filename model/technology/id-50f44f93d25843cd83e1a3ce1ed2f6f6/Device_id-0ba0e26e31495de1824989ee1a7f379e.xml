@@ -1,0 +1,15 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminal de PDV da loja"
+    id="id-0ba0e26e31495de1824989ee1a7f379e"
+    documentation="Equipamento do vendedor. No target, abre o checkout com a oferta de crédito já pronta, em vez de digitar a proposta.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase D): nome lógico, a infraestrutura real do Magalu não é pública"/>
+</archimate:Device>

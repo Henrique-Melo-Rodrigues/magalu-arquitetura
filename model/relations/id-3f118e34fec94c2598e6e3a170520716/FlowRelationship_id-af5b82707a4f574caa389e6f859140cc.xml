@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pedido de decisão"
+    id="id-af5b82707a4f574caa389e6f859140cc">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-de4d4be2792f5c8796c127c8ad4acce0.xml#id-de4d4be2792f5c8796c127c8ad4acce0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-67669e588f94531483c17773f9fbc3e6.xml#id-67669e588f94531483c17773f9fbc3e6"/>
+</archimate:FlowRelationship>

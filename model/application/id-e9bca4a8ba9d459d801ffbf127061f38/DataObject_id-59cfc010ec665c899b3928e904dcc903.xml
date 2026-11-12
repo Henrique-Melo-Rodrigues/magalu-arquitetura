@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proposta e Decisão"
+    id="id-59cfc010ec665c899b3928e904dcc903"
+    documentation="Chave: id_proposta. Atributos: id_oferta, resultado (aprovada ou recusada), motivo, data e hora.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1"/>
+</archimate:DataObject>

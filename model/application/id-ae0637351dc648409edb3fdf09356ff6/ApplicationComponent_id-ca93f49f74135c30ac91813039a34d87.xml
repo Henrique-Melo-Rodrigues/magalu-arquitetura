@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de Parcelas e Cobrança"
+    id="id-ca93f49f74135c30ac91813039a34d87"
+    documentation="Gera as parcelas, recebe por Pix ou boleto digital e conduz a cobrança de atrasos.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G3"/>
+</archimate:ApplicationComponent>

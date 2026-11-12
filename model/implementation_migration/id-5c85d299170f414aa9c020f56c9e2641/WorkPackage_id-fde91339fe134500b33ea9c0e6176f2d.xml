@@ -1,0 +1,42 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P9 Gestão de risco da carteira própria"
+    id="id-fde91339fe134500b33ea9c0e6176f2d"
+    documentation="Política de risco, provisionamento e relatórios ao Banco Central para a carteira própria (processo T5). Precisa estar pronto antes de abrir o crédito digital em volume. Fecha o gap G4.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE4"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="dez/2026 a abr/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="P2"/>
+  <properties
+      key="responsável (proposta)"
+      value="Área de Risco, com a área de compliance (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Alto (obrigatório)"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Médio"/>
+  <properties
+      key="risco (Fase F)"
+      value="Alto"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="1 - caminho crítico"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 1 - Crédito digital"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Protege a carteira própria (OE4: NPL 90 abaixo de 8%) e atende o Banco Central."/>
+</archimate:WorkPackage>

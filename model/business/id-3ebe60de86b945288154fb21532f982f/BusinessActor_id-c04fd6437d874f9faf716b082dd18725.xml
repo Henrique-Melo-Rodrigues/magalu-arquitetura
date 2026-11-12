@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operação de Lojas"
+    id="id-c04fd6437d874f9faf716b082dd18725"
+    documentation="Gerência das lojas físicas. Conduz a implantação no balcão e o treinamento dos vendedores."/>

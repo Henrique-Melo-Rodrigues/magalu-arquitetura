@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parcela"
+    id="id-1f913820dc005cceadc958efad00c825"
+    documentation="Prestação do contrato, com vencimento, valor, situação e pagamento (Pix ou boleto digital)."/>

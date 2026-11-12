@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contêiner: Cadastro e Dados do Cliente"
+    id="id-dc0904648cc75bf0993b415c1a686da6"
+    documentation="Imagem de contêiner do componente &quot;Cadastro e Dados do Cliente&quot; (Fase C), guardada no Container Registry e executada no cluster.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Artifact>

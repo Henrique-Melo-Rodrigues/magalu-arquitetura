@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oferta de Crédito"
+    id="id-de4e4620cff855878047dbfa1069b2ba"
+    documentation="Chave: id_oferta. Atributos: id_limite, valor, número de parcelas, taxa, custo total, canal.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1, G2"/>
+</archimate:DataObject>

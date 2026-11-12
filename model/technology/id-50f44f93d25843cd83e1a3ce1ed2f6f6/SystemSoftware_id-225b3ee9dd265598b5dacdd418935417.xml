@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Observabilidade (logs, métricas e alertas)"
+    id="id-225b3ee9dd265598b5dacdd418935417"
+    documentation="Registra desempenho, erros e acessos, para auditoria e resposta a incidentes. Não consta no portfólio público da Magalu Cloud.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT3"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:SystemSoftware>

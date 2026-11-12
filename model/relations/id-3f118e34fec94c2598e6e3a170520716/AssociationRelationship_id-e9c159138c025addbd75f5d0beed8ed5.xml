@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gera"
+    id="id-e9c159138c025addbd75f5d0beed8ed5"
+    directed="true">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-65f6cc2a616150abb6c1914b53ee93f9.xml#id-65f6cc2a616150abb6c1914b53ee93f9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0991eb2796bb5f5b922c3d7bce670b82.xml#id-0991eb2796bb5f5b922c3d7bce670b82"/>
+</archimate:AssociationRelationship>

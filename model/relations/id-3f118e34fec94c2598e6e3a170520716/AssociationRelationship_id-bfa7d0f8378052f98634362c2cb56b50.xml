@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="atendimento depende da Fase D"
+    id="id-bfa7d0f8378052f98634362c2cb56b50"
+    directed="true">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-aa11c7527db15778b391a02ab9620365.xml#id-aa11c7527db15778b391a02ab9620365"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-6d3a845237d44233b415b9a45478372a.xml#id-6d3a845237d44233b415b9a45478372a"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cobrança e recebimento de parcelas"
+    id="id-ebca76a1c3975d2eaa7f9f26092c497d"
+    documentation="Recebe as parcelas por Pix ou boleto digital e cobra os atrasos."/>

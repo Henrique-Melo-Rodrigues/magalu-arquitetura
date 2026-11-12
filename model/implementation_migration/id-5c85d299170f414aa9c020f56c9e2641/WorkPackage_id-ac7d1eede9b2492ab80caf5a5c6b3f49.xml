@@ -1,0 +1,42 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P4 Oferta no checkout do app, site e WhatsApp"
+    id="id-ac7d1eede9b2492ab80caf5a5c6b3f49"
+    documentation="Exibe limite, parcelas e custo total no checkout dos canais digitais, com a mesma oferta. Começa pelo digital, onde a oferta de crédito ainda é parcial, e só entra no ar com a gestão de risco (P9) pronta. Fecha parte do gap G2.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE1, OE2"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="abr a jun/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="P3, P6, P9"/>
+  <properties
+      key="responsável (proposta)"
+      value="LuizaLabs (TI) (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Muito alto"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Médio"/>
+  <properties
+      key="risco (Fase F)"
+      value="Médio"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="2 - entrega de valor"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 1 - Crédito digital"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="É o pacote que mais move a meta OE2 (penetração digital de 5% para 15%)."/>
+</archimate:WorkPackage>

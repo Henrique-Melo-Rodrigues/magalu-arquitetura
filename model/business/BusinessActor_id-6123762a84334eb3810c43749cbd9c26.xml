@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Central de cobranças"
+    id="id-6123762a84334eb3810c43749cbd9c26"
+    documentation="Área que acompanha o pagamento das parcelas e a recuperação de atrasos (capacidade Cobrança). Papel e processos ainda não definidos na Fase B."/>

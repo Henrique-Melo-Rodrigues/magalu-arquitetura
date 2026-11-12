@@ -1,0 +1,9 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GT4 Continuidade e recuperação de desastres"
+    id="id-1b1c99eab08d50f8b4ceb0dbfb92aa75"
+    documentation="Criar a região de recuperação em BR-NE1, com réplica e testes periódicos. Atende G4 e as normas do Banco Central.">
+  <properties
+      key="operação"
+      value="create"/>
+</archimate:Gap>

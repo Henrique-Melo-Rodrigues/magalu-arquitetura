@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Alta disponibilidade do crédito no checkout"
+    id="id-6e1d95cee65857ccbfacc91312a53f5a"
+    documentation="Fase D. O crédito no checkout segue disponível se uma réplica, uma zona ou um nó falhar."/>

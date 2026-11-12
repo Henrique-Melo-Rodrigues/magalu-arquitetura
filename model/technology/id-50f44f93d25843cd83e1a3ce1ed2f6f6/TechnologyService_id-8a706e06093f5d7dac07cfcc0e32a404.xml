@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Troca de eventos entre componentes"
+    id="id-8a706e06093f5d7dac07cfcc0e32a404"
+    documentation="Entrega eventos entre componentes sem acoplá-los."/>

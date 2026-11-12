@@ -1,0 +1,39 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P7 Pagamento por Pix e boleto digital"
+    id="id-ccdeab44362b47a1a3ba66840e8e82a4"
+    documentation="Pagamento das parcelas por Pix e boleto digital, com cobrança pelos canais digitais, no lugar do carnê impresso. Fecha parte do gap G3.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="fev a mai/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="P6"/>
+  <properties
+      key="responsável (proposta)"
+      value="MagaluPay SCFI (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Médio"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Médio"/>
+  <properties
+      key="risco (Fase F)"
+      value="Baixo"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="2 - entrega de valor"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 1 - Crédito digital"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Cobrança digital reduz atraso e custo de cobrança."/>
+</archimate:WorkPackage>

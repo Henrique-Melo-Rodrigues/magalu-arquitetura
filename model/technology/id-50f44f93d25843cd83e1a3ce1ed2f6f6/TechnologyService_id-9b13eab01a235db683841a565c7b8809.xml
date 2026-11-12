@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Backup e recuperação de desastres"
+    id="id-9b13eab01a235db683841a565c7b8809"
+    documentation="Restaura o crédito na outra região se a principal falhar."/>

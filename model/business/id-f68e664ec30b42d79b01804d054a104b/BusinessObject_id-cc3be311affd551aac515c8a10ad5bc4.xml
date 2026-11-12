@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Histórico de compras e pagamentos"
+    id="id-cc3be311affd551aac515c8a10ad5bc4"
+    documentation="Pedidos, pagamentos e crediário do cliente no ecossistema Magalu. É o insumo do limite pré-aprovado."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Execução elástica de contêineres"
+    id="id-cff47c75e9905b219d14a8ecc2a402df"
+    documentation="Sobe e desliga réplicas conforme a demanda, para manter o desempenho em datas como a Black Friday."/>

@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API única de crédito publicada"
+    id="id-a2849dc3d58d4a51b84132ff60e99841"
+    documentation="Entregável do pacote P3. Pronto quando app, site, loja e WhatsApp podem consumir o mesmo serviço, com teste de carga antes do pico de vendas."/>

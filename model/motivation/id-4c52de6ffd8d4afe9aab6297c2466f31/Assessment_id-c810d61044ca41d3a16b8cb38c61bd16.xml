@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risco: a Transição 1 concentra a maior parte dos pacotes"
+    id="id-c810d61044ca41d3a16b8cb38c61bd16"
+    documentation="P1, P2, P3, P4, P6, P7 e P9 estão na TA1. Mitigação: sequenciar o caminho crítico (P1, P2, P3, P4) e rodar P6, P7 e P9 em paralelo; se P1 atrasar, mover P7 para a TA2."/>

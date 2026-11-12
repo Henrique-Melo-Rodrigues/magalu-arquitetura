@@ -1,0 +1,39 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P12 Continuidade e recuperação de desastres"
+    id="id-2ded6395585c4d97b82e11ae38395ff2"
+    documentation="Incluído na Fase F para fechar o gap GT4. Cria a região de recuperação BR-NE1, a réplica dos dados e o teste periódico de recuperação. Deve estar testado antes de abrir o crédito digital em volume (gate G-TA1), conforme as normas do Banco Central.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="mar a jun/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="P11"/>
+  <properties
+      key="responsável (proposta)"
+      value="LuizaLabs (TI), com a Área de Risco (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Médio (obrigatório)"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Médio"/>
+  <properties
+      key="risco (Fase F)"
+      value="Baixo"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="2 - entrega de valor"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 1 - Crédito digital"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Continuidade exigida pelo regulador antes de ganhar volume."/>
+</archimate:WorkPackage>

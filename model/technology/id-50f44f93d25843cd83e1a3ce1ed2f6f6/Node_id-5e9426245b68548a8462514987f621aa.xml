@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fornecedor de biometria facial (serviço externo)"
+    id="id-5e9426245b68548a8462514987f621aa"
+    documentation="Hipótese do grupo: contratar. Verificação facial com prova de vida não consta no portfólio público da Magalu Cloud, então o princípio de reutilizá-la não se aplica. Decisão final na Fase E.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT5"/>
+  <properties
+      key="fonte"
+      value="hipótese do grupo (Fase D)"/>
+</archimate:Node>

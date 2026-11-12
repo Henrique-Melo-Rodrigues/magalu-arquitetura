@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oferta de crédito no checkout"
+    id="id-aa11c7527db15778b391a02ab9620365"
+    documentation="Devolve limite, parcelas e custo total ao canal, igual em todos os canais."/>

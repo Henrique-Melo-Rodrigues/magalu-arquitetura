@@ -1,0 +1,42 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P2 Motor de crédito e limite pré-aprovado"
+    id="id-4c5cf7a01b304d2c979371b7771a486d"
+    documentation="Motor automatizado que calcula o limite antes da compra e decide em segundos, com dados próprios do Magalu. Substitui a análise feita depois da proposta no balcão (B3). Fecha parte do gap G1.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE2"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="jan a abr/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="P1"/>
+  <properties
+      key="responsável (proposta)"
+      value="MagaluPay SCFI, com o LuizaLabs (TI) (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Alto"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Alto"/>
+  <properties
+      key="risco (Fase F)"
+      value="Alto"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="1 - caminho crítico"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 1 - Crédito digital"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Decisão em segundos com dados próprios; maior originação pela SCFI (OE1)."/>
+</archimate:WorkPackage>

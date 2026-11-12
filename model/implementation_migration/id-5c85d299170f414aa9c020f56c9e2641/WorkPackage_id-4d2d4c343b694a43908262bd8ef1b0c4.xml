@@ -1,0 +1,42 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P1 Cadastro único do cliente (base de crédito)"
+    id="id-4d2d4c343b694a43908262bd8ef1b0c4"
+    documentation="Unifica o cadastro e o histórico de compras e pagamentos do cliente em todos os canais, respeitando a LGPD. É a base do cálculo do limite pré-aprovado. Fecha parte do gap G1.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE2"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="nov/2026 a fev/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="-"/>
+  <properties
+      key="responsável (proposta)"
+      value="LuizaLabs (TI), com a Área de Risco (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Alto"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Médio"/>
+  <properties
+      key="risco (Fase F)"
+      value="Alto"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="1 - caminho crítico"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 0 - Fundação"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Base do limite pré-aprovado; sem dados confiáveis o motor não funciona."/>
+</archimate:WorkPackage>

@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base de cadastro e consentimento (esquema relacional)"
+    id="id-9cbece68bcc45b3797ca860fe201ee4f"
+    documentation="Guarda o Cadastro do Cliente com o registro de consentimento (LGPD). Dado pessoal: criptografar em repouso.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT2"/>
+</archimate:Artifact>

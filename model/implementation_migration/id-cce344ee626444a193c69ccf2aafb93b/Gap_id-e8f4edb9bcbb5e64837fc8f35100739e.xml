@@ -1,0 +1,9 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GT1 Infraestrutura elástica para o crédito no checkout"
+    id="id-e8f4edb9bcbb5e64837fc8f35100739e"
+    documentation="Hoje o crédito roda fora do checkout, na infraestrutura do crediário e do PDV. No target, roda em cluster de contêineres na Magalu Cloud, com escala automática, balanceamento e rede isolada. Atende G1 e G2. Projeto da Fase E: a definir pelo Arquiteto Líder.">
+  <properties
+      key="operação"
+      value="eliminate + create"/>
+</archimate:Gap>

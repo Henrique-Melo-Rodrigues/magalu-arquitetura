@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contêiner: Orquestrador de Crédito"
+    id="id-6609ebcfd003539781d4fb124331c126"
+    documentation="Imagem de contêiner do componente &quot;Orquestrador de Crédito&quot; (Fase C), guardada no Container Registry e executada no cluster.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Artifact>

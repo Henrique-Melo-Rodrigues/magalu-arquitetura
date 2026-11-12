@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Limite de Crédito"
+    id="id-82536ac20ef352d4b27bdd95654e1fb6"
+    documentation="Chave: id_limite. Atributos: id_cliente, valor, data de cálculo, validade, versão da política.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1"/>
+</archimate:DataObject>

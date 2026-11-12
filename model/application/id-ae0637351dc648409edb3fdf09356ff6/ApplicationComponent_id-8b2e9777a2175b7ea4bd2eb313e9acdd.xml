@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de Risco e Reporte Regulatório"
+    id="id-8b2e9777a2175b7ea4bd2eb313e9acdd"
+    documentation="Acompanha a inadimplência (NPL 90), calcula provisões e envia os relatórios ao Banco Central.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G4"/>
+</archimate:ApplicationComponent>

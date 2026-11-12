@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contêiner: Motor de Decisão de Crédito"
+    id="id-00026304a65e589bb2964d4b3afcd187"
+    documentation="Imagem de contêiner do componente &quot;Motor de Decisão de Crédito&quot; (Fase C), guardada no Container Registry e executada no cluster.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Artifact>

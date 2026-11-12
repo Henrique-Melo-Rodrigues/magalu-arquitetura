@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente (cadastro)"
+    id="id-854e04dde3eb5d03992f67b80242fcbd"
+    documentation="Pessoa física que compra no Magalu e pode tomar crédito. Cadastro único, com identificação e contato."/>

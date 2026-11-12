@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plataforma de dados do Magalu (existente)"
+    id="id-65f490ae0db551ae91052a15206c6d70"
+    documentation="Premissa do grupo: o histórico de compras e pagamentos dos clientes já fica nos dados do Magalu. O Motor de Limite lê dele.">
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase D): nome lógico, a infraestrutura real do Magalu não é pública"/>
+</archimate:Node>

@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Histórico de Compras e Pagamentos"
+    id="id-ed3c996c53ce59ecb65dbac637b4ac67"
+    documentation="Chave: id_cliente + período. Atributos: pedidos, valores, parcelas pagas, atrasos anteriores.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1"/>
+</archimate:DataObject>

@@ -1,0 +1,42 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P3 API única de crédito"
+    id="id-4461b8e9b25b4749814d763ea21b5cb2"
+    documentation="Serviço único de crédito consumido por app, site, loja e WhatsApp, com as regras em um só lugar e capacidade para picos de venda. Serve aos gaps G1 e G2.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE1, OE2"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="mar a mai/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="P2"/>
+  <properties
+      key="responsável (proposta)"
+      value="LuizaLabs (TI) (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Alto"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Médio"/>
+  <properties
+      key="risco (Fase F)"
+      value="Médio"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="1 - caminho crítico"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 1 - Crédito digital"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Mesma oferta em todos os canais; reaproveitada pelas lojas na Onda 2."/>
+</archimate:WorkPackage>

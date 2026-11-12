@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orquestrador de Crédito"
+    id="id-de4d4be2792f5c8796c127c8ad4acce0"
+    documentation="Ponto único de entrada do crédito para todos os canais. Coordena limite, decisão, biometria e contrato.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1, G2"/>
+</archimate:ApplicationComponent>

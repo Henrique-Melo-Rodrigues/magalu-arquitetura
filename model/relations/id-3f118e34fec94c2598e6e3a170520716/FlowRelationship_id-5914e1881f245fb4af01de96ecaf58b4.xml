@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="parcelas e pagamentos"
+    id="id-5914e1881f245fb4af01de96ecaf58b4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ca93f49f74135c30ac91813039a34d87.xml#id-ca93f49f74135c30ac91813039a34d87"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8b2e9777a2175b7ea4bd2eb313e9acdd.xml#id-8b2e9777a2175b7ea4bd2eb313e9acdd"/>
+</archimate:FlowRelationship>

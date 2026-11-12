@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de Contratos Digitais"
+    id="id-0e3cbff6ab0f5ed3b35fea58733795af"
+    documentation="Gera o contrato, registra o aceite e guarda o documento.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G3"/>
+</archimate:ApplicationComponent>

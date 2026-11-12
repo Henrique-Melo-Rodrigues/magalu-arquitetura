@@ -1,0 +1,12 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balanceador de carga e DNS (LBaaS)"
+    id="id-f7758e1f335c574b9273df9545d3114c"
+    documentation="Distribui o tráfego entre as réplicas. Segundo apresentação pública, LBaaS e DNS estavam em lançamento em 2025: validar disponibilidade e SLA.">
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:SystemSoftware>

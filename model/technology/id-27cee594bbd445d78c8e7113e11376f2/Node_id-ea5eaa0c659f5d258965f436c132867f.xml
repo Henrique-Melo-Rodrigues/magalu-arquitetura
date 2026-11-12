@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Infraestrutura do crediário e do PDV (legado)"
+    id="id-ea5eaa0c659f5d258965f436c132867f"
+    documentation="Baseline: servidores que executam a análise de crédito, o crediário e o cadastro de proposta do PDV. Onde isso roda hoje não é público, por isso o nome é lógico. Fica até a carteira antiga de R$ 1,5 bi ser encerrada (meta dez/2027).">
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT6"/>
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase D): nome lógico, a infraestrutura real do Magalu não é pública"/>
+</archimate:Node>

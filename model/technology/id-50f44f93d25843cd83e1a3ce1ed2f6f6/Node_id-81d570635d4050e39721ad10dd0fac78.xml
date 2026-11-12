@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rede de pagamentos (Pix e boleto)"
+    id="id-81d570635d4050e39721ad10dd0fac78"
+    documentation="Meios pelos quais o cliente paga as parcelas. Validar se a MagaluPay participa direto do Pix: se sim, a Resolução CMN 5.274/2025 exige o ambiente Pix isolado dos demais na nuvem.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT5"/>
+  <properties
+      key="fonte"
+      value="Resolução CMN 5.274/2025 (altera a 4.893)"/>
+</archimate:Node>

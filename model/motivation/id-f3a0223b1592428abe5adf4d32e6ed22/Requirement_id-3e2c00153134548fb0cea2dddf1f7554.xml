@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Criptografia e controle de acesso aos dados pessoais"
+    id="id-3e2c00153134548fb0cea2dddf1f7554"
+    documentation="Fase D. Dados pessoais criptografados em trânsito e em repouso, com acesso mínimo e registrado (LGPD e Resolução CMN 4.893)."/>

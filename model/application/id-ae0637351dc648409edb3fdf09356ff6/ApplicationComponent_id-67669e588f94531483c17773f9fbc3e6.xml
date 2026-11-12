@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor de Decisão de Crédito"
+    id="id-67669e588f94531483c17773f9fbc3e6"
+    documentation="Decide em poucos segundos durante o checkout.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1"/>
+</archimate:ApplicationComponent>

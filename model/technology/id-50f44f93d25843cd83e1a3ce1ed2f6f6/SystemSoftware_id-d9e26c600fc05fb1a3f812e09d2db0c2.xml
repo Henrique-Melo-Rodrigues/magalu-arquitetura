@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de chaves e segredos"
+    id="id-d9e26c600fc05fb1a3f812e09d2db0c2"
+    documentation="Guarda chaves de criptografia e credenciais. Não consta no portfólio público da Magalu Cloud: validar com ela; a alternativa é contratar fora.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT2"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:SystemSoftware>

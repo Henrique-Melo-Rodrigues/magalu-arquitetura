@@ -1,0 +1,9 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TA1 Crédito pré-aprovado no checkout digital"
+    id="id-9a8b3a61e33f47afa151922cb32dd5cd"
+    documentation="Primeira arquitetura de transição. O cliente dos canais digitais (app, site e WhatsApp da Lu) vê o limite pré-aprovado no checkout, aceita com biometria facial e paga por Pix ou boleto digital. A MagaluPay decide em segundos pela API única e a Área de Risco acompanha a carteira própria. As lojas seguem no atendimento de balcão atual.">
+  <properties
+      key="janela (proposta)"
+      value="até jun/2027 (proposta)"/>
+</archimate:Plateau>

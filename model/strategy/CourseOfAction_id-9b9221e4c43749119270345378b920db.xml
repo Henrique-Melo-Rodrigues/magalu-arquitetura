@@ -1,0 +1,5 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Estratégia de migração: digital primeiro, lojas depois, em duas transições"
+    id="id-9b9221e4c43749119270345378b920db"
+    documentation="Abordagem faseada por capacidades, em vez de trocar tudo de uma vez. O digital vem primeiro porque é onde a oferta de crédito ainda é parcial; as lojas já são decididas pela MagaluPay e esperam a API única amadurecer; a carteira legada encerra em paralelo; risco (P9) e biometria (P6) entram antes de abrir volume, seguindo o princípio Conformidade regulatória desde o início."/>

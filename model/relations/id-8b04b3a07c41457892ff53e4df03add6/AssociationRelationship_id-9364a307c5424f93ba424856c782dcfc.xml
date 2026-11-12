@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="decide o gate"
+    id="id-9364a307c5424f93ba424856c782dcfc">
+  <source
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_id-31dc8c70527d44aeaf25565f51c53dbc.xml#id-31dc8c70527d44aeaf25565f51c53dbc"/>
+  <target
+      xsi:type="archimate:ImplementationEvent"
+      href="ImplementationEvent_id-753c66d0537c41c091bd0e2029068c6b.xml#id-753c66d0537c41c091bd0e2029068c6b"/>
+</archimate:AssociationRelationship>

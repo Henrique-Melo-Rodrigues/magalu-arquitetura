@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Posição da Carteira"
+    id="id-a0bea3e79268565bac5526401d655af1"
+    documentation="Chave: id_contrato + data-base. Atributos: saldo, dias em atraso (NPL 90), provisão.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G4"/>
+</archimate:DataObject>

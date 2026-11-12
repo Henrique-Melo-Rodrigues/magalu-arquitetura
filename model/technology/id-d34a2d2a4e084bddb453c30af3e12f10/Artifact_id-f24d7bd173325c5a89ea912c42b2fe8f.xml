@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contêiner: Gestão de Parcelas e Cobrança"
+    id="id-f24d7bd173325c5a89ea912c42b2fe8f"
+    documentation="Imagem de contêiner do componente &quot;Gestão de Parcelas e Cobrança&quot; (Fase C), guardada no Container Registry e executada no cluster.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Artifact>

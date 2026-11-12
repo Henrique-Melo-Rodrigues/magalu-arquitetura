@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Análise de crédito e crediário (legado)"
+    id="id-33c9729f524f56a5a547cf50d956fb49"
+    documentation="Baseline: a MagaluPay analisa a proposta e o crediário emite contrato e carnê impressos. Mantém a carteira antiga de R$ 1,5 bi até dez/2027.">
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase C): nome lógico, o sistema real do Magalu não é público"/>
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1, G3, G5"/>
+</archimate:ApplicationComponent>
