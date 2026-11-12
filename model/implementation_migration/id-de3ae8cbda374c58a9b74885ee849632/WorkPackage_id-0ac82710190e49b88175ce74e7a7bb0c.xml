@@ -1,0 +1,39 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P11 Fundação da infraestrutura do crédito na Magalu Cloud"
+    id="id-0ac82710190e49b88175ce74e7a7bb0c"
+    documentation="Incluído na Fase F para fechar os gaps de tecnologia GT1, GT2 e GT3, que não tinham pacote de trabalho. Monta o cluster de contêineres, a rede isolada, o banco de dados gerenciado, o repositório de contratos e evidências, a gestão de chaves, o API Gateway com WAF e a observabilidade. É pré-requisito técnico do motor de crédito (P2) e da API única (P3).">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="nov/2026 a fev/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="-"/>
+  <properties
+      key="responsável (proposta)"
+      value="LuizaLabs (TI) (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Alto (habilitador)"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Alto"/>
+  <properties
+      key="risco (Fase F)"
+      value="Médio"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="1 - caminho crítico"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 0 - Fundação"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Sem ele nada roda; atende alta disponibilidade, LGPD e picos de venda."/>
+</archimate:WorkPackage>

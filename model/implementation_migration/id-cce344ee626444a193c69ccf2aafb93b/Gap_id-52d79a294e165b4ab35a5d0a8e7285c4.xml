@@ -1,0 +1,9 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GT3 Segurança de borda, identidade e monitoramento"
+    id="id-52d79a294e165b4ab35a5d0a8e7285c4"
+    documentation="Criar API Gateway com WAF e observabilidade, e a política de acessos. A Magalu Cloud não oferece esses itens no portfólio público: decidir entre operar e contratar na Fase E. Atende G2.">
+  <properties
+      key="operação"
+      value="create"/>
+</archimate:Gap>

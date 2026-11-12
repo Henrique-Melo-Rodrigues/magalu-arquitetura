@@ -1,0 +1,15 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aplicação de PDV (cadastro de proposta)"
+    id="id-80b6097915a754939f675cffcdc144b0"
+    documentation="Baseline: tela onde o vendedor digita o cadastro e envia a proposta, fora do checkout.">
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT6"/>
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase D): nome lógico, a infraestrutura real do Magalu não é pública"/>
+</archimate:Artifact>

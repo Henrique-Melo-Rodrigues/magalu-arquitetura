@@ -1,0 +1,12 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Container Registry da Magalu Cloud"
+    id="id-e1e9effb1d4a57948ef6693411ee6945"
+    documentation="Guarda as imagens de contêiner dos componentes do crédito.">
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:SystemSoftware>

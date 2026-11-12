@@ -1,0 +1,15 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Impressora de contrato e carnê (loja)"
+    id="id-d6e5ce3be7585850bf99483b68a17809"
+    documentation="Baseline: imprime contrato e carnê na loja. Deixa de existir com a contratação digital (gap G3).">
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT6"/>
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase D): nome lógico, a infraestrutura real do Magalu não é pública"/>
+</archimate:Device>

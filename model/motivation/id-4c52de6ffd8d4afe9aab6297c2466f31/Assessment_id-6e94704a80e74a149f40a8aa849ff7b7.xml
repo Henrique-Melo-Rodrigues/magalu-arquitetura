@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risco: implantação nas lojas perto da Black Friday"
+    id="id-6e94704a80e74a149f40a8aa849ff7b7"
+    documentation="P5 e P8 mexem no atendimento de balcão e devem terminar antes do pico de vendas do fim do ano. A API única (P3) e o checkout (P4) precisam de teste de carga antes da Black Friday (requisito Suportar picos de vendas)."/>

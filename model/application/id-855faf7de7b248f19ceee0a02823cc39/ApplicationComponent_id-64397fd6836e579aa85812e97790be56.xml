@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PDV da loja (cadastro de proposta)"
+    id="id-64397fd6836e579aa85812e97790be56"
+    documentation="Baseline: o vendedor digita o cadastro e envia a proposta, fora do checkout.">
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase C): nome lógico, o sistema real do Magalu não é público"/>
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1"/>
+</archimate:ApplicationComponent>

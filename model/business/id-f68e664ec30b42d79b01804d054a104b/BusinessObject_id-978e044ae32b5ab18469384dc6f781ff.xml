@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Carteira de crédito"
+    id="id-978e044ae32b5ab18469384dc6f781ff"
+    documentation="Conjunto dos contratos ativos, com saldo, atraso (NPL 90) e provisão."/>

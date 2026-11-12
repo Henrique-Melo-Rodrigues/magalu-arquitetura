@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Canais de venda (app, site, PDV e WhatsApp da Lu)"
+    id="id-48079b685f155b10aaa4906fa4548882"
+    documentation="Os quatro canais passam a consumir a API de Crédito para mostrar a oferta no checkout.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase C)"
+      value="G2"/>
+</archimate:ApplicationComponent>

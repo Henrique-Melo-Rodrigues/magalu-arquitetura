@@ -7,6 +7,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-56a343e1e93249c6b95980f0eebc0afa"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       fillColor="#fff3b0">
     <bounds
         x="30"
@@ -20,6 +23,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7b250c2f872e4f3ebddb487d61028e53"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       fillColor="#fff3b0">
     <bounds
         x="260"
@@ -33,6 +39,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a53d52850e6a480c9583dc74e04a1791"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       fillColor="#fff3b0">
     <bounds
         x="490"
@@ -46,6 +55,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4fdf4680308c43119588bf0dedbca9e5"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       fillColor="#f7c6b5">
     <bounds
         x="720"
@@ -59,6 +71,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e48bdac3e33b4fb69ddf13639f71d36c"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       fillColor="#fff3b0">
     <bounds
         x="30"
@@ -72,6 +87,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9b10307a5ff84e97bd1543fffedf5b96"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       fillColor="#c8e6c9">
     <bounds
         x="260"
@@ -85,6 +103,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-69ac20d129254629968e90279ad02cd0"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       fillColor="#f7c6b5">
     <bounds
         x="490"
@@ -98,6 +119,9 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-82315fc341954fceb5b64c96c18ac6f6"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#c8e6c9"
       content="Existe">
@@ -110,6 +134,9 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-566a9b84b55f4dd8bd12ebaa6d5380fb"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#fff3b0"
       content="Ampliar">
@@ -122,6 +149,9 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-88138e3df54f48a7a04393e76055ee17"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#f7c6b5"
       content="Criar">
@@ -134,7 +164,11 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-5ff83c4dbafb4378974d488d84eb2c5e"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       textAlignment="1"
+      fillColor="#ffffff"
       content="Ampliar: já existe nas lojas, falta no app, site e WhatsApp.&#xA;Criar: não existe na baseline 2T26.">
     <bounds
         x="30"

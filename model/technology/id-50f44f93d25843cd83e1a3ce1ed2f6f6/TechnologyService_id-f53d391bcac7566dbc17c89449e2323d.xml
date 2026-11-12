@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consulta rápida de limite e oferta"
+    id="id-f53d391bcac7566dbc17c89449e2323d"
+    documentation="Responde em milissegundos o limite pré-aprovado do cliente."/>

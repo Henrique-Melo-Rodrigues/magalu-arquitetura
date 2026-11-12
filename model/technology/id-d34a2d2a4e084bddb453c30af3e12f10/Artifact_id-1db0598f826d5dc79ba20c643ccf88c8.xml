@@ -1,0 +1,15 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base de histórico de compras e pagamentos"
+    id="id-1db0598f826d5dc79ba20c643ccf88c8"
+    documentation="Tabelas do histórico lidas pelo Motor de Limite. Premissa: já existem nos dados do Magalu.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT2"/>
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase D): nome lógico, a infraestrutura real do Magalu não é pública"/>
+</archimate:Artifact>

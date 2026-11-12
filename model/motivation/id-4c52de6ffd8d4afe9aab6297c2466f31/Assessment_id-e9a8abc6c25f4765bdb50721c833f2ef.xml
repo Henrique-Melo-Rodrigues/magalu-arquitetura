@@ -1,0 +1,9 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Premissa: janelas e responsáveis dos pacotes são propostas do grupo"
+    id="id-e9a8abc6c25f4765bdb50721c833f2ef"
+    documentation="O modelo usa só informações públicas. Os prazos finais vêm das metas da Vision; as janelas de cada pacote, os responsáveis e a divisão em duas transições são estimativas do grupo e devem ser validadas com o patrocinador (Diretoria do MagaluBank).">
+  <properties
+      key="fonte"
+      value="premissa do grupo"/>
+</archimate:Assessment>

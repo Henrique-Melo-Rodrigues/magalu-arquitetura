@@ -1,0 +1,42 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P5 Oferta no PDV da loja física"
+    id="id-8446d242eb8a4af39d87c3240827cb39"
+    documentation="O vendedor apresenta uma oferta já calculada no PDV, em vez de digitar a proposta. Desativa os processos B1 e B2 da baseline. Vem depois do digital para aproveitar o piloto. Fecha parte do gap G2.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE1, OE2"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA2"/>
+  <properties
+      key="janela (proposta)"
+      value="jul a set/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="P3, P4, P6"/>
+  <properties
+      key="responsável (proposta)"
+      value="LuizaLabs (TI), com as lojas (Vendedores das Lojas) (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Alto"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Médio"/>
+  <properties
+      key="risco (Fase F)"
+      value="Alto"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="3 - expansão"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 2 - Lojas sem papel"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Leva a oferta pronta para o balcão das lojas."/>
+</archimate:WorkPackage>

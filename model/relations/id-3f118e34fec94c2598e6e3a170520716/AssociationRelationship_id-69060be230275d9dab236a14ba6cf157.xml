@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="alimenta"
+    id="id-69060be230275d9dab236a14ba6cf157"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-ed3c996c53ce59ecb65dbac637b4ac67.xml#id-ed3c996c53ce59ecb65dbac637b4ac67"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-82536ac20ef352d4b27bdd95654e1fb6.xml#id-82536ac20ef352d4b27bdd95654e1fb6"/>
+</archimate:AssociationRelationship>

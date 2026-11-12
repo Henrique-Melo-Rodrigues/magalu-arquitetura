@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cadastro do Cliente"
+    id="id-e2c9fbab583a5fc695eb52e01879f88c"
+    documentation="Chave: id_cliente. Atributos: CPF, nome, contato, endereço. Dado pessoal; exige consentimento (LGPD).">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1"/>
+</archimate:DataObject>

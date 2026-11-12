@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Análise de crédito e emissão de carnê (baseline)"
+    id="id-62d0f49852f55dd1a808b9746a7b15c3"
+    documentation="Baseline: a MagaluPay analisa e decide, e o contrato e o carnê são impressos."/>

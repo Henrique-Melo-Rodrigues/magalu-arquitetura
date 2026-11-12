@@ -6,7 +6,11 @@
     viewpoint="motivation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-39d6762193e04d6689c5e828ed715c38">
+      id="id-39d6762193e04d6689c5e828ed715c38"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
     <bounds
         x="108"
         y="72"
@@ -18,7 +22,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1e7696779373449dbc32a04179606e28">
+      id="id-1e7696779373449dbc32a04179606e28"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
     <bounds
         x="104"
         y="204"
@@ -30,7 +38,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e80b2d2d43134a27b354205db3233bf2">
+      id="id-e80b2d2d43134a27b354205db3233bf2"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
     <bounds
         x="104"
         y="324"
@@ -42,7 +54,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-dea2b398b46541bd9bff85f1a6882277">
+      id="id-dea2b398b46541bd9bff85f1a6882277"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
     <bounds
         x="104"
         y="432"
@@ -54,7 +70,11 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b02ec526597e4122ae92b18ad8d2ad03">
+      id="id-b02ec526597e4122ae92b18ad8d2ad03"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#ccccff">
     <bounds
         x="104"
         y="552"
@@ -67,7 +87,11 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-0d12c11235eb40ee972bd111ae665467"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       textAlignment="1"
+      fillColor="#ffffff"
       content="ESCOPO DA ARQUITETURA&#xA;&#xA;Unidade de Negócio: Fintech (MagaluBank).&#xA;Segmento: Internalização do crédito ao consumidor na MagaluPay SCFI, com oferta de crédito pré-aprovado no checkout.&#xA;&#xA;Dentro do escopo:&#xA;- Crédito ao consumidor no momento da compra&#xA;- Canais: aplicativo, site, loja física e WhatsApp da Lu&#xA;&#xA;Fora do escopo:&#xA;- Cartão de crédito Luizacred&#xA;- Crédito para sellers do marketplace&#xA;- Seguros e consórcio&#xA;&#xA;Premissa: modelo baseado em informações públicas (relações com investidores e imprensa), pois a arquitetura interna do Magalu não é divulgada.">
     <bounds
         x="336"
@@ -78,7 +102,11 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-ff661c5a727843bfa4a81a29e0bbbf32"
+      font="1|Sans|9.0|0|GTK|1|"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
       textAlignment="1"
+      fillColor="#ffffff"
       content="MÉTODO E FERRAMENTAS&#xA;&#xA;Framework: TOGAF – ciclo ADM (Fase Preliminar até a Fase F)&#xA;Linguagem de modelagem: ArchiMate 3&#xA;Ferramenta: Archi (gratuita)&#xA;Abordagem: modelagem do estado atual (baseline), do estado futuro (target) e análise de gaps nas Fases B, C e D.">
     <bounds
         x="336"

@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contrato Digital"
+    id="id-03187d8af22f53328bb4f43101c8cf8d"
+    documentation="Chave: id_contrato. Atributos: id_proposta, condições, hash do documento, data e hora do aceite.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G3"/>
+</archimate:DataObject>

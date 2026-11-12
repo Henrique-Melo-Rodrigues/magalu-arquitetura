@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Gateway e proteção de borda (WAF e anti-DDoS)"
+    id="id-42faba10d3335aaf850731f2e1035c90"
+    documentation="Ponto único de entrada da API de Crédito: autentica, limita chamadas e filtra ataques. Não consta no portfólio público da Magalu Cloud: operar por conta própria ou contratar (decisão da Fase E).">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT3"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:SystemSoftware>

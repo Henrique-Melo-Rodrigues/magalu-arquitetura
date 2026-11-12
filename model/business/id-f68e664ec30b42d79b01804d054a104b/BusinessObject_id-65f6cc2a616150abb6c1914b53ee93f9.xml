@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proposta de crédito"
+    id="id-65f6cc2a616150abb6c1914b53ee93f9"
+    documentation="Pedido de crédito ligado a uma compra, com a decisão e o motivo."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validação de identidade"
+    id="id-b3a29ca28cc85c4f9d6a5e22cc5ca009"
+    documentation="Resultado da conferência por biometria facial no aceite. Biometria é dado pessoal sensível na LGPD."/>

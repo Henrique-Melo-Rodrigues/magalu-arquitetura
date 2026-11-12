@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contêiner: Gestão de Contratos Digitais"
+    id="id-ec3a64a6141555b0ac1782a9da38eba6"
+    documentation="Imagem de contêiner do componente &quot;Gestão de Contratos Digitais&quot; (Fase C), guardada no Container Registry e executada no cluster.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Artifact>

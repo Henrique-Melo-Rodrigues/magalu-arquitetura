@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cadastro e Dados do Cliente (com consentimento)"
+    id="id-5801ab96ff83538289006578ab39e985"
+    documentation="Cadastro único, histórico de compras e pagamentos e registro de consentimento LGPD.">
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase C): nome lógico, o sistema real do Magalu não é público"/>
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1"/>
+</archimate:ApplicationComponent>

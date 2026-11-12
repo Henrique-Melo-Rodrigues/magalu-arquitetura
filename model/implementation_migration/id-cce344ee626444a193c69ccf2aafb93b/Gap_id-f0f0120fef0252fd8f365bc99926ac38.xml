@@ -1,0 +1,9 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GT6 Desligamento da infraestrutura do crediário legado"
+    id="id-f0f0120fef0252fd8f365bc99926ac38"
+    documentation="Desativar servidores, aplicações e impressão de contrato e carnê depois que a carteira antiga de R$ 1,5 bi for encerrada (meta dez/2027). Atende G5 e G3.">
+  <properties
+      key="operação"
+      value="eliminate"/>
+</archimate:Gap>

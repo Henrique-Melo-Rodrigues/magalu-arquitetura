@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cálculo de limite pré-aprovado"
+    id="id-0f0c533912565fcf8a08d6f28c425406"
+    documentation="Calcula o limite do cliente antes da compra."/>

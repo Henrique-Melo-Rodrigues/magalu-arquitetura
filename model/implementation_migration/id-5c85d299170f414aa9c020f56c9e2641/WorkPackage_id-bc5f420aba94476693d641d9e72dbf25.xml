@@ -1,0 +1,42 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P6 Contratação digital com biometria facial"
+    id="id-bc5f420aba94476693d641d9e72dbf25"
+    documentation="Aceite do contrato com validação do rosto e formalização digital. Une prevenção a fraude e contrato sem papel. Serve aos gaps G2 e G3.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE1, OE2"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA1"/>
+  <properties
+      key="janela (proposta)"
+      value="jan a abr/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="-"/>
+  <properties
+      key="responsável (proposta)"
+      value="MagaluPay SCFI, com o LuizaLabs (TI) (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Alto"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Médio"/>
+  <properties
+      key="risco (Fase F)"
+      value="Médio"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="2 - entrega de valor"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 1 - Crédito digital"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Contrato sem papel e prevenção a fraude; aumenta a conversão no checkout."/>
+</archimate:WorkPackage>

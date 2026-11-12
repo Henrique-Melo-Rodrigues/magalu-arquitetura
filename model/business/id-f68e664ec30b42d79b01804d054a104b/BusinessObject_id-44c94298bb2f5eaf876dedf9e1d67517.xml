@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Limite pré-aprovado"
+    id="id-44c94298bb2f5eaf876dedf9e1d67517"
+    documentation="Valor máximo de crédito calculado antes da compra para cada cliente, com data de validade."/>

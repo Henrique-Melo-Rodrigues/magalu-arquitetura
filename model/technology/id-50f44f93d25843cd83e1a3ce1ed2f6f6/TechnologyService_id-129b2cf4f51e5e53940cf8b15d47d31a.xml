@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acesso ao histórico de compras e pagamentos"
+    id="id-129b2cf4f51e5e53940cf8b15d47d31a"
+    documentation="Entrega ao Motor de Limite as compras e os pagamentos do cliente."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API de Crédito MagaluPay"
+    id="id-eca0a4398dab5c188f8cc19f90cc6d55"
+    documentation="Interface única que app, site, PDV e WhatsApp da Lu usam para ver oferta, aceitar e contratar. Atende o princípio &quot;Crédito disponível em todos os canais&quot;."/>

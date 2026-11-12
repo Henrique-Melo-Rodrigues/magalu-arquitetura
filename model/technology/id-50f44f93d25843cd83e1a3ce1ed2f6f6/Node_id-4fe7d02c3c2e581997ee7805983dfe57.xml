@@ -1,0 +1,15 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Magalu Cloud - região BR-NE1 (recuperação de desastres)"
+    id="id-4fe7d02c3c2e581997ee7805983dfe57"
+    documentation="Segunda região da Magalu Cloud, usada como destino de réplica para continuidade. Hipótese do grupo: modo ativo-passivo, com RTO e RPO definidos pela Área de Risco.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT4"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:Node>

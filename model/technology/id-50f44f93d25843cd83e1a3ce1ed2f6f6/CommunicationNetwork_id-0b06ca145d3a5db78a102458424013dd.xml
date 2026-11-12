@@ -1,0 +1,15 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VPC do crédito (rede isolada)"
+    id="id-0b06ca145d3a5db78a102458424013dd"
+    documentation="Rede virtual privada na Magalu Cloud que separa o ambiente do crédito dos demais sistemas do Magalu.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:CommunicationNetwork>

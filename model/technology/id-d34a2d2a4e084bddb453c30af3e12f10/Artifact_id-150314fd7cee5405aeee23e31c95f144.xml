@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contêiner: Motor de Limite Pré-aprovado"
+    id="id-150314fd7cee5405aeee23e31c95f144"
+    documentation="Imagem de contêiner do componente &quot;Motor de Limite Pré-aprovado&quot; (Fase C), guardada no Container Registry e executada no cluster.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Artifact>

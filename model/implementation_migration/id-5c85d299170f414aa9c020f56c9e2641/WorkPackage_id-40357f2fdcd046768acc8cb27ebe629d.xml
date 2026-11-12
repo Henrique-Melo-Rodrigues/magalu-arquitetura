@@ -1,0 +1,39 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P8 Fim do contrato e carnê impressos"
+    id="id-40357f2fdcd046768acc8cb27ebe629d"
+    documentation="Desativa a impressão de contrato e carnê nas lojas (processo B4) depois que o PDV e o pagamento digital estiverem no ar, com treinamento das equipes. Deve terminar antes do pico de vendas do fim do ano (premissa a confirmar). Fecha parte do gap G3.">
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA2"/>
+  <properties
+      key="janela (proposta)"
+      value="ago a out/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="P5, P7"/>
+  <properties
+      key="responsável (proposta)"
+      value="Lojas (Vendedores das Lojas), com a MagaluPay SCFI (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Médio"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Baixo"/>
+  <properties
+      key="risco (Fase F)"
+      value="Médio"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="3 - expansão"/>
+  <properties
+      key="onda (Fase F)"
+      value="Onda 2 - Lojas sem papel"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Elimina custo de impressão e o carnê de papel."/>
+</archimate:WorkPackage>

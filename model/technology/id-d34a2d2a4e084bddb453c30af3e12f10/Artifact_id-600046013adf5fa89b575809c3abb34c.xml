@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Repositório de contratos e evidências (objetos)"
+    id="id-600046013adf5fa89b575809c3abb34c"
+    documentation="Guarda o Contrato Digital e a Evidência de Biometria. A evidência guarda só resultado e data, sem a imagem do rosto.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT2"/>
+</archimate:Artifact>

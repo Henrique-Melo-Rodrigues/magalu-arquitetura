@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contêiner: Adaptador de Biometria Facial"
+    id="id-962ac241fd0d5cd18c6ed42580c75ec3"
+    documentation="Imagem de contêiner do componente &quot;Adaptador de Biometria Facial&quot; (Fase C), guardada no Container Registry e executada no cluster. Chama o fornecedor externo de biometria.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Artifact>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Armazenamento de contratos e evidências"
+    id="id-53fb9fdc4d985bdcb54c09bfd04e51fa"
+    documentation="Guarda contrato, hash e aceite, com retenção e sem alteração posterior."/>

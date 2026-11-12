@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor de Limite Pré-aprovado"
+    id="id-5facf6f216cf542690c5bce6235900a2"
+    documentation="Calcula o limite de cada cliente antes da compra, com o histórico e a política de crédito.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G1"/>
+</archimate:ApplicationComponent>

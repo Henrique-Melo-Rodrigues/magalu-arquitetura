@@ -1,0 +1,12 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base transacional do crédito (esquema relacional)"
+    id="id-d28903bcbc4b5267a261f0f267ed2ffa"
+    documentation="Guarda Limite de Crédito, Oferta, Proposta e Decisão, Parcelas e Pagamentos e Posição da Carteira.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT2"/>
+</archimate:Artifact>

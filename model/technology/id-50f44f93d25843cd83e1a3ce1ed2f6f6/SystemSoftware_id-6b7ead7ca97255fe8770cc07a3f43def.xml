@@ -1,0 +1,12 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Magalu Kubernetes Engine (MKE)"
+    id="id-6b7ead7ca97255fe8770cc07a3f43def"
+    documentation="Kubernetes gerenciado da Magalu Cloud. Cria e escala o cluster do crédito.">
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,42 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="P10 Encerramento da carteira legada do varejo"
+    id="id-3a7de7004caa4739aa1d7846764f445b"
+    documentation="Encerramento dos contratos antigos que ainda estão no balanço do varejo, em paralelo aos demais pacotes. Fecha o gap G5.">
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="objetivo (Vision)"
+      value="OE1"/>
+  <properties
+      key="transição (Fase E)"
+      value="TA2"/>
+  <properties
+      key="janela (proposta)"
+      value="nov/2026 a dez/2027 (proposta)"/>
+  <properties
+      key="depende de"
+      value="-"/>
+  <properties
+      key="responsável (proposta)"
+      value="MagaluPay SCFI, com a Área de Risco (proposta)"/>
+  <properties
+      key="valor de negócio (Fase F)"
+      value="Médio"/>
+  <properties
+      key="custo estimado (Fase F)"
+      value="Baixo"/>
+  <properties
+      key="risco (Fase F)"
+      value="Baixo"/>
+  <properties
+      key="prioridade (Fase F)"
+      value="Contínuo"/>
+  <properties
+      key="onda (Fase F)"
+      value="Contínuo (em paralelo)"/>
+  <properties
+      key="benefício esperado (Fase F)"
+      value="Concentra todo o crédito na SCFI (OE1) e permite desligar o legado (GT6)."/>
+</archimate:WorkPackage>

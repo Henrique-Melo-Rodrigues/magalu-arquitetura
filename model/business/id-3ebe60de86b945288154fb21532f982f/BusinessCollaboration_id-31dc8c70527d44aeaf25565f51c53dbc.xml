@@ -1,0 +1,5 @@
+<archimate:BusinessCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comitê de Migração do Crédito"
+    id="id-31dc8c70527d44aeaf25565f51c53dbc"
+    documentation="Fórum de governança da implementação. Reúne-se mensalmente para acompanhar o andamento dos pacotes e decide nos gates (M1, TA1, M3, TA2) se a migração avança. Membros: Diretoria do MagaluBank (decide), Arquiteto Líder (garante a aderência à arquitetura), Área de Risco, Área de Compliance, LuizaLabs e MagaluPay SCFI. Mudanças de escopo ou prazo passam pelo comitê e são registradas no modelo."/>

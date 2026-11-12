@@ -1,0 +1,9 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GT5 Integrações externas (biometria, Pix e boleto)"
+    id="id-934c2bb8198d51aba113b80f8acd31bf"
+    documentation="Contratar a verificação facial e integrar Pix e boleto digital. Atende G3.">
+  <properties
+      key="operação"
+      value="create"/>
+</archimate:Gap>

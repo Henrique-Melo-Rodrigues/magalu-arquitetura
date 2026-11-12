@@ -1,0 +1,12 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestão de identidades e acessos (Turia IAM)"
+    id="id-3eb00a4f8f3c5ae3a9022545eac1dd39"
+    documentation="Controla quais pessoas e sistemas acessam cada recurso. Serviço da Magalu Cloud.">
+  <properties
+      key="gap (Fase D)"
+      value="GT3"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:SystemSoftware>

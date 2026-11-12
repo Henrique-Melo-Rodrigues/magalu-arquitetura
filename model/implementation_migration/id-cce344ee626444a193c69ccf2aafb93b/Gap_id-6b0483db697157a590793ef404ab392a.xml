@@ -1,0 +1,9 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GT2 Armazenamento e proteção dos dados do crédito"
+    id="id-6b0483db697157a590793ef404ab392a"
+    documentation="Criar o banco transacional, o repositório de contratos e evidências e a gestão de chaves; reaproveitar o histórico do Magalu. Atende G1, G3 e a LGPD. Projeto da Fase E: a definir pelo Arquiteto Líder.">
+  <properties
+      key="operação"
+      value="create"/>
+</archimate:Gap>

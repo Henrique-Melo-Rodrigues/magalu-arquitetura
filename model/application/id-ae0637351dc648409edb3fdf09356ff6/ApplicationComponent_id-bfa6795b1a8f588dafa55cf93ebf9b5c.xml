@@ -1,0 +1,12 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Serviço de Biometria Facial"
+    id="id-bfa6795b1a8f588dafa55cf93ebf9b5c"
+    documentation="Confirma a identidade do cliente no aceite. Construir ou contratar é decisão para as Fases D e E.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase C)"
+      value="G3"/>
+</archimate:ApplicationComponent>

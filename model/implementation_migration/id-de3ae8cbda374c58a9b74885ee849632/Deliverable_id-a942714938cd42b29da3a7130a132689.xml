@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ambiente de crédito na Magalu Cloud pronto"
+    id="id-a942714938cd42b29da3a7130a132689"
+    documentation="Entregável do pacote P11. Pronto quando cluster, banco, repositório, gateway e observabilidade estão em produção, com teste de carga e revisão de segurança aprovados."/>

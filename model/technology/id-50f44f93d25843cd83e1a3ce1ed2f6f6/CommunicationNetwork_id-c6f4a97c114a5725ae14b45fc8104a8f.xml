@@ -1,0 +1,15 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rede privada das lojas"
+    id="id-c6f4a97c114a5725ae14b45fc8104a8f"
+    documentation="Liga as lojas ao ambiente central. No target, passa a chegar à Magalu Cloud por VPN ou link dedicado.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase D): nome lógico, a infraestrutura real do Magalu não é pública"/>
+</archimate:CommunicationNetwork>

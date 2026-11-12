@@ -1,0 +1,5 @@
+<archimate:ImplementationEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gate TA1 - Go-live do crédito no checkout digital (jun/2027)"
+    id="id-753c66d0537c41c091bd0e2029068c6b"
+    documentation="Critérios de ir ou não ir: política de risco e relatórios em uso (P9); teste de carga da API e do checkout aprovado; recuperação de desastres testada (P12); biometria homologada (P6); piloto com uma parte dos clientes pré-aprovados sem incidentes graves. Se algum critério falhar, o go-live é adiado e o legado continua atendendo."/>

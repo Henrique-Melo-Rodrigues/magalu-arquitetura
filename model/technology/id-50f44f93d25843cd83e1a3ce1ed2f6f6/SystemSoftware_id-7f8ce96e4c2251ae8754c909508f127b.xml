@@ -1,0 +1,15 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cache em memória"
+    id="id-7f8ce96e4c2251ae8754c909508f127b"
+    documentation="Guarda o limite pré-aprovado já calculado, para a decisão sair em poucos segundos no checkout.">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+  <properties
+      key="fonte"
+      value="hipótese do grupo (Fase D)"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,12 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Link entre regiões (BR-SE1 e BR-NE1)"
+    id="id-90c956631a56561a9ab7e985d23e6b0f"
+    documentation="Conecta as duas regiões da Magalu Cloud para replicar dados e imagens de contêiner.">
+  <properties
+      key="gap (Fase D)"
+      value="GT4"/>
+  <properties
+      key="fonte"
+      value="Magalu Cloud, portfólio público (Nic.br 2025; comunicado de dez/2025)"/>
+</archimate:CommunicationNetwork>

@@ -1,0 +1,5 @@
+<archimate:Assessment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Risco: qualidade do cadastro único trava o limite pré-aprovado"
+    id="id-f651db3d259a4e59833e08da5dca75f0"
+    documentation="O motor de crédito (P2) depende de dados unificados e confiáveis (P1). Mitigação: definir um critério mínimo de qualidade de dados antes de P2 entrar em produção e tratar a LGPD (base legal e consentimento) desde o início de P1."/>

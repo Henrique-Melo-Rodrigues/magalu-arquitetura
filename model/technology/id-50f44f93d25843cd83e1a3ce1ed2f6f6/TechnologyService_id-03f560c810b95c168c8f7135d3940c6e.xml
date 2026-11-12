@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recebimento por Pix e boleto digital"
+    id="id-03f560c810b95c168c8f7135d3940c6e"
+    documentation="Recebe as parcelas e confirma o pagamento."/>

@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oferta de crédito"
+    id="id-ad5ff547a356586e91871c905dba4f4c"
+    documentation="Simulação mostrada no checkout: valor, número de parcelas, taxa e custo total."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validação por biometria facial"
+    id="id-14e6596dfd38575982f2279569b99172"
+    documentation="Confirma a identidade do cliente no aceite."/>

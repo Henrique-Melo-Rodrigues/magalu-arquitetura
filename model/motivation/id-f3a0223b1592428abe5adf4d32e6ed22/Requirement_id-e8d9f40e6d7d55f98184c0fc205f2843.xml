@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recuperação de desastres com RTO e RPO definidos"
+    id="id-e8d9f40e6d7d55f98184c0fc205f2843"
+    documentation="Fase D. A Área de Risco define o tempo máximo de recuperação (RTO) e a perda máxima de dados (RPO); a região de recuperação os cumpre. Valores a definir."/>

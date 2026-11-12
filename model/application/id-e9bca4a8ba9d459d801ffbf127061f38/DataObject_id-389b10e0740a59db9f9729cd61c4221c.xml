@@ -1,0 +1,12 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Parcelas e Pagamentos"
+    id="id-389b10e0740a59db9f9729cd61c4221c"
+    documentation="Chave: id_parcela. Atributos: id_contrato, vencimento, valor, situação, meio de pagamento, data do pagamento.">
+  <properties
+      key="operação"
+      value="change"/>
+  <properties
+      key="gap (Fase C)"
+      value="G3"/>
+</archimate:DataObject>

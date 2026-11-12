@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="contribui para"
+    id="id-e48030721ae048b1ad7ccc05955666c5">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-4c5cf7a01b304d2c979371b7771a486d.xml#id-4c5cf7a01b304d2c979371b7771a486d"/>
+  <target
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-3ab79998fc5745d299b3617c4195bb02.xml#id-3ab79998fc5745d299b3617c4195bb02"/>
+</archimate:AssociationRelationship>

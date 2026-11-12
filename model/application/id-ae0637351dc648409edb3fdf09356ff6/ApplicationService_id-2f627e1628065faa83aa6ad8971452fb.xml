@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoramento de risco e reporte ao regulador"
+    id="id-2f627e1628065faa83aa6ad8971452fb"
+    documentation="Mostra inadimplência e provisões à Área de Risco e entrega os relatórios ao Banco Central."/>

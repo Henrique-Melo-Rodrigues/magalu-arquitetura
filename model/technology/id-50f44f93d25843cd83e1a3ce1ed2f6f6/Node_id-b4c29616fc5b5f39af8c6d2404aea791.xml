@@ -1,0 +1,12 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cluster de contêineres do crédito"
+    id="id-b4c29616fc5b5f39af8c6d2404aea791"
+    documentation="Ambiente onde rodam os componentes do crédito. Escala sozinho nos picos (Black Friday) e espalha as réplicas por mais de uma zona, se a região oferecer (validar com a Magalu Cloud).">
+  <properties
+      key="operação"
+      value="create"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT1"/>
+</archimate:Node>

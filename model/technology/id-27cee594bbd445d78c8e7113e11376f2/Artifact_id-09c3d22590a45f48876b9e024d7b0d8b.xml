@@ -1,0 +1,15 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema de análise de crédito e crediário (legado)"
+    id="id-09c3d22590a45f48876b9e024d7b0d8b"
+    documentation="Baseline: software que analisa a proposta, emite contrato e carnê impressos e controla a carteira antiga.">
+  <properties
+      key="operação"
+      value="eliminate"/>
+  <properties
+      key="gap (Fase D)"
+      value="GT6"/>
+  <properties
+      key="fonte"
+      value="premissa do grupo (Fase D): nome lógico, a infraestrutura real do Magalu não é pública"/>
+</archimate:Artifact>

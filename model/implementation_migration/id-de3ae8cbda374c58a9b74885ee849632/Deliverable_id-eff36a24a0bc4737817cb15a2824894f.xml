@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Região de recuperação testada"
+    id="id-eff36a24a0bc4737817cb15a2824894f"
+    documentation="Entregável do pacote P12. Pronto quando a réplica para BR-NE1 funciona e um teste de recuperação cumpre o RTO e o RPO definidos pela Área de Risco."/>
