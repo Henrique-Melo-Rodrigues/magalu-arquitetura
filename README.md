@@ -2,8 +2,11 @@
 
 Repositório: **<https://github.com/Henrique-Melo-Rodrigues/magalu-arquitetura>**
 
-Todos trabalham **no mesmo modelo ArchiMate**, cada um na **sua branch**, e juntamos tudo na `main` por
-Pull Request. Ferramentas: **Archi 5.x** + plugin **coArchi** (testado com 0.9.7) + **GitHub**.
+Todos trabalham **no mesmo modelo ArchiMate**, numa única branch de trabalho, a **`business`**, e juntamos
+tudo na `main` por Pull Request. Ferramentas: **Archi 5.x** + plugin **coArchi** (testado com 0.9.7) + **GitHub**.
+
+> ✅ **Ciclo ADM concluído até a Fase F (Migration Planning).** Modelo final: 240 elementos, 564 relações e
+> 36 views.
 
 > 📌 Primeira vez? Faça as seções **1** e **2** (uma vez só). Depois, o dia a dia é a seção **3**.
 
@@ -11,28 +14,27 @@ Pull Request. Ferramentas: **Archi 5.x** + plugin **coArchi** (testado com 0.9.7
 
 ## Status do projeto
 
-| Fase (pasta de views) | Views | Branch | Status |
+| Fase (pasta de views) | Views | Responsável | Status |
 |---|---|---|---|
-| `0 - preliminar` | Princípios de Arquitetura · Equipe de Arquitetura | `main` | ✅ Concluída |
-| `A - Vision` | Stakeholders, Drivers e Objetivos · Realização de Objetivos · Capacidades e Cadeia de Valor · Declaração de Trabalho | `main` | ✅ Concluída |
-| `B - Business` | 1. Atores e papéis · 2. Baseline (processo atual 2T26) · 3. Target (processo futuro + capacidades) · 4. Gap analysis | `main` | ✅ Concluída |
-| `C - Information Systems` | — | `aluno/<nome>-faseC` | ⏳ A fazer |
-| `D - Technology` | — | `aluno/<nome>-faseD` | ⏳ A fazer |
-| `E - Opportunities and Solutions` | — | `aluno/<nome>-faseE` | ⏳ A fazer |
-| `F - Migration Planning` | — | `aluno/<nome>-faseF` | ⏳ A fazer |
+| `0 - preliminar` | Princípios de Arquitetura · Equipe de Arquitetura | Nicolas Tamashiro | ✅ Concluída |
+| `A - Vision` | Stakeholders, Drivers e Objetivos · Realização de Objetivos · Capacidades e Cadeia de Valor · Declaração de Trabalho | Nicolas Tamashiro | ✅ Concluída (revisada após a devolutiva do professor, metas OE) |
+| `B - Business` | Atores e papéis · Baseline (2T26) · Target (processo futuro e capacidades) · Gap analysis · Rastreabilidade com a Vision | Henrique Rodrigues | ✅ Concluída |
+| `C - Information Systems` | C1 a C7: dados conceitual e lógico · aplicação baseline e target · acesso aos dados · rastreabilidade · gap analysis | Pedro Henrique Fernandes | ✅ Concluída |
+| `D - Technology` | D1 a D7: baseline · target (infraestrutura e nuvem) · implantação · dados · serviços · rastreabilidade · gap analysis | João Pedro | ✅ Concluída |
+| `E - Opportunities and Solutions` | E1 a E5: gaps e pacotes · roadmap (plateaus) · cronograma · dependências · riscos | Paulo Pimenta | ✅ Concluída |
+| `F - Migration Planning` | F1 a F4: cobertura dos gaps · priorização · plano de implementação (ondas e marcos) · governança | Nicolas Tamashiro; revisão de Nicolas Tamashiro e Henrique Rodrigues | ✅ Concluída |
+| *(raiz de Views)* | **Visão integrada - todas as fases do ADM** | Iniciada por Nicolas Tamashiro e finalizada por Henrique Rodrigues | ✅ Concluída |
 
-- A Fase B usa dados do **relatório 2T26** da Magalu. O relatório do **3T26 sai em 09/11** e pode gerar
-  ajustes no baseline.
-- Ordem: **B → C → D → E → F**. **C e D podem andar em paralelo**, mas **reutilizando os elementos de
-  negócio da Fase B** (atores, papéis, processos), que já estão na `main`.
+- **Visão integrada:** pedida pelo professor, porque é padrão em projetos Archi ter uma view geral com o modelo
+  inteiro, e não só views menores separadas por fase. Ela mostra, num só desenho, objetivo → requisito →
+  processo → aplicação → tecnologia → transição. A fundamentação detalhada continua nas views de cada fase.
+- A Fase B usa dados do **relatório 2T26** da Magalu.
+- Ordem seguida: **B → C → D → E → F**. As fases G e H não foram modeladas.
 
-**Quem faz o quê** (preencham):
-
-| Aluno | Fase | Branch | Status |
-|-------|------|--------|--------|
-| Henrique | B – Business | `business` | Integrada · revisão final |
-|  |  |  |  |
-|  |  |  |  |
+> ℹ️ **Por que só a branch `business`.** O plano inicial previa uma branch por aluno e por fase
+> (`aluno/<nome>-<fase>`). Na prática, o fluxo do coArchi não foi seguido à risca: cada fase foi modelada em um
+> arquivo `.archimate` separado e importada na `business` (seção 3). Por isso as branches por aluno deixaram de
+> ser necessárias.
 
 ---
 
@@ -68,23 +70,19 @@ Esqueceu? Crie outra e redigite o token.
 1. No Archi: **Collaboration ▸ Import Remote Model to Workspace**.
    - URL: `https://github.com/Henrique-Melo-Rodrigues/magalu-arquitetura.git`
    - Usuário: **seu login do GitHub** · Senha: **o token** · marque para salvar.
-2. O modelo aparece na árvore de Modelos — **é nele que você trabalha**.
+2. O modelo aparece na árvore de Modelos. **É nele que você trabalha.**
 3. Abra: **Window ▸ Collaboration Workspace**, **Branches** e **Change History**.
-4. Crie sua branch:
-   1. **Refresh Model**.
-   2. View **Branches** ▸ com `main` selecionada ▸ **Add New Branch to Current Branch** ▸ `aluno/<nome>-<fase>`
-      (minúsculas, sem acento, ex.: `aluno/maria-faseC`).
-   3. Selecione a branch nova ▸ **Switch Branch**.
-   4. **Publish Changes** (para ela existir no GitHub).
+4. Na view **Branches**, selecione **`business`** ▸ **Switch Branch** ▸ **Refresh Model**.
 
-> ⚠️ **Não edite o arquivo `.archimate` antigo.** O modelo oficial é o do coArchi.
+> ⚠️ Um `.archimate` aberto por *File ▸ Open* **não** é ligado ao repositório: nele, *Commit* e *Publish*
+> ficam desabilitados. O modelo oficial é o do **Collaboration Workspace**.
 
 ---
 
-## 3. Dia a dia
+## 3. Dia a dia (na `business`)
 
 ```
-Refresh Model → modelar → Ctrl+S → Commit Changes → Publish Changes
+Refresh Model → modelar (ou importar seu .archimate) → Ctrl+S → Commit Changes → Publish Changes
 ```
 
 | Ação | O que faz | Quem vê |
@@ -92,52 +90,61 @@ Refresh Model → modelar → Ctrl+S → Commit Changes → Publish Changes
 | **Save** (Ctrl+S) | grava no seu PC | só você |
 | **Commit Changes** | registra no histórico local | só você |
 | **Publish Changes** | envia ao GitHub | todo o grupo |
-| **Refresh Model** | traz o que os outros publicaram na sua branch | — |
+| **Refresh Model** | traz o que os outros publicaram na `business` | — |
 
-- **Publique ao fim de toda sessão** — sem Publish ninguém vê e não há backup.
+- **Publique ao fim de toda sessão.** Sem Publish, ninguém vê e não há backup.
 - Commits pequenos, mensagem clara: `[Fase C] Cria view "Aplicações do Checkout"`.
-- Antes de trocar de branch, faça *Commit Changes*.
+- **Nunca modele direto na `main`.**
 - Errou? **Abort Uncommitted Changes** (descarta o não commitado) ou **Undo the latest commit** (se ainda não publicou).
 
-### Trazer a `main` para a sua branch (1x por semana e antes do PR)
+### Levar uma fase feita num `.archimate` separado
+
+1. Feche o `.archimate` da fase, se estiver aberto.
+2. Selecione o modelo do repositório na árvore ▸ **File ▸ Import ▸ Another Model Into Selected Model…** ▸ escolha
+   o arquivo. Marque **Update existing objects and folders**.
+3. **Antes de salvar**, confira a árvore: não pode haver pasta ou elemento em dobro. Se houver, use **Close Model**
+   e responda **No** para não salvar (seção 7).
+4. **Tools ▸ Validate Model** ▸ **Ctrl+S** ▸ **Commit Changes** ▸ **Publish Changes**.
+
+### Trazer a `main` para a `business` (depois de cada merge e antes do PR)
 
 1. *Commit Changes* do que estiver pendente ▸ **Refresh Model**.
-2. View **Branches** ▸ estando na **sua** branch, selecione `main` ▸ **Merge Branch into Current Branch**.
+2. View **Branches** ▸ estando na `business`, selecione `main` ▸ **Merge Branch into Current Branch**.
 3. Conflito? Veja a seção 5. Depois **Publish Changes**.
 
 ---
 
-## 4. Entregar sua parte (Pull Request)
+## 4. Entregar (Pull Request `business → main`)
 
 **Checklist:**
-- [ ] `main` trazida para minha branch, sem conflito pendente
+- [ ] `main` trazida para a `business`, sem conflito pendente
 - [ ] **Tools ▸ Validate Model** sem erros
-- [ ] Não dupliquei elementos que já existiam (ex.: dois "Cliente")
+- [ ] Não dupliquei elementos nem pastas que já existiam (ex.: dois "Cliente", duas "B - Business")
 - [ ] Não editei views de outros
 - [ ] Views na pasta da fase certa, com *Documentation* preenchida
 - [ ] *Commit* + *Publish* feitos
 
-Depois: GitHub ▸ **Pull requests ▸ New pull request** ▸ `base: main` ← `compare: sua branch`.
+Depois: GitHub ▸ **Pull requests ▸ New pull request** ▸ `base: main` ← `compare: business`.
 Na descrição, liste as views criadas e os elementos compartilhados que você mexeu. Peça revisão de 1 colega.
 
-O Henrique integra: backup do modelo, **um PR por vez**, *merge commit* (sem squash), valida e avisa o grupo.
-Depois de cada merge na `main`, todos fazem **Refresh Model** (e quem está em branch própria traz a `main`).
+O Henrique integra: backup do modelo, *merge commit* (sem squash), valida e avisa o grupo.
+Depois de cada merge, todos fazem **Refresh Model** e trazem a `main` para a `business`.
 
 ---
 
 ## 5. Conflitos
 
-Conflito = **o mesmo elemento ou a mesma view** alterado nas duas branches. O coArchi lista os objetos e, para
-cada um, você escolhe **Ours** (sua versão) ou **Theirs** (a do outro) — não mistura campo a campo.
+Conflito = **o mesmo elemento ou a mesma view** alterado na `business` e na `main`. O coArchi lista os objetos e,
+para cada um, você escolhe **Ours** (sua versão) ou **Theirs** (a do outro). Ele não mistura campo a campo.
 
 1. Escolha a versão **mais completa**.
 2. Depois do merge, **refaça à mão** o que a outra versão tinha de diferente.
 3. *Validate Model*, confira as views e faça o commit.
 
-Na dúvida, **cancele o merge** e chame o colega.
+Na dúvida, **cancele o merge** e chame o grupo.
 
 **Nunca:** editar XML à mão (GitHub web, VS Code…) · resolver conflito pelo editor do GitHub ·
-`git push --force` · apagar a branch de alguém antes de estar na `main`.
+`git push --force` · apagar a `business`.
 
 ---
 
@@ -163,14 +170,15 @@ Na dúvida, **cancele o merge** e chame o colega.
 |----------|---------|
 | `TransportException ... not authorized` | Use o **token classic** com escopo `repo`; confirme que aceitou o convite; troque a credencial em *Collaboration Workspace ▸ Properties* |
 | Esqueci a *Primary Password* | Crie uma nova e redigite o token |
+| *Commit* e *Publish* desabilitados | O `.archimate` foi aberto por *File ▸ Open*: abra o modelo do **Collaboration Workspace** e importe o arquivo nele (seção 3) |
+| Pastas duplicadas depois de importar | O arquivo veio de um XML *Open Exchange*, que não guarda o ID das pastas: **Close Model** sem salvar, alinhe os IDs das pastas com os do repositório e importe de novo |
 | *Publish* rejeitado / "non-fast-forward" | Alguém publicou antes: **Refresh Model** e publique de novo |
-| Não vejo a branch de um colega | Ele precisa dar *Publish*; você, *Refresh Model* |
-| Elemento sumiu da view após merge | Alguém apagou na outra branch: *Show Change History* ▸ *Restore*; combine com o grupo |
+| Elemento sumiu da view após merge | Alguém apagou: *Show Change History* ▸ *Restore*; combine com o grupo |
 | Dois elementos iguais | Troque pelo oficial nas views, mova as relações, apague a duplicata |
 | Arquivo estranho no GitHub | Foi parar na pasta do repositório local: apague pelo site e avise o Henrique |
 | Modelo não abre após merge | Alguém editou XML à mão: *Restore to this commit* e refaça o merge pelo Archi |
 
 ---
 
-> **Resumo: Refresh → modelo na minha branch, nas minhas views → Commit → Publish → trago a `main` toda
-> semana → Validate → Pull Request.**
+> **Resumo: Refresh → trabalho na `business`, nas minhas views (ou importo meu `.archimate`) → confiro
+> duplicatas → Validate → Commit → Publish → Pull Request `business → main` → trago a `main` de volta.**
