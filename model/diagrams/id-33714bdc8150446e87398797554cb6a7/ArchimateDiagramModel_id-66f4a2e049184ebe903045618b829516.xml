@@ -69,18 +69,6 @@
       fillColor="#c9e7b7">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-31285d6312d04ae6a488ec80c12e9c12"
-        font="1|Sans|9.0|0|GTK|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-a53596e7deae48cf8cc4f9d4ddb3269e"
-        target="id-78f60e394f094a1e83c60aa695f0aac5">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-e1f31ab155504f9384b19ac22359091e.xml#id-e1f31ab155504f9384b19ac22359091e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-edb68e410b4744c9ad9436aefb629e07"
         font="1|Sans|9.0|0|GTK|1|"
         fontColor="#000000"
@@ -90,6 +78,18 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-b99d1e1fdc8d42bdbfc7790b34cf81e3.xml#id-b99d1e1fdc8d42bdbfc7790b34cf81e3"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-31285d6312d04ae6a488ec80c12e9c12"
+        font="1|Sans|9.0|0|GTK|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-a53596e7deae48cf8cc4f9d4ddb3269e"
+        target="id-78f60e394f094a1e83c60aa695f0aac5">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-e1f31ab155504f9384b19ac22359091e.xml#id-e1f31ab155504f9384b19ac22359091e"/>
     </sourceConnections>
     <bounds
         x="480"
@@ -165,18 +165,6 @@
       fillColor="#c9e7b7">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e82c8c4cdda74a498af1bebea0e378da"
-        font="1|Sans|9.0|0|GTK|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-bf3d309808284731a76935b65e47bf6d"
-        target="id-7e623d505a19451fbe7af92449dd0538">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-92e64bd53e534f898f7f511b7ddbbf47.xml#id-92e64bd53e534f898f7f511b7ddbbf47"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3c495590475c483abf80e205b24ffa45"
         font="1|Sans|9.0|0|GTK|1|"
         fontColor="#000000"
@@ -186,6 +174,18 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-0ac0c735de794a14b83ac9de20af280c.xml#id-0ac0c735de794a14b83ac9de20af280c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e82c8c4cdda74a498af1bebea0e378da"
+        font="1|Sans|9.0|0|GTK|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-bf3d309808284731a76935b65e47bf6d"
+        target="id-7e623d505a19451fbe7af92449dd0538">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-92e64bd53e534f898f7f511b7ddbbf47.xml#id-92e64bd53e534f898f7f511b7ddbbf47"/>
     </sourceConnections>
     <bounds
         x="480"
@@ -311,7 +311,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ed75fbfcaf744137be2a32d55ee24d70"
-      targetConnections="id-80820a9e29dc495487c456d899fda734 id-131b801a360548779221c2bb99e644e2 id-edb68e410b4744c9ad9436aefb629e07"
+      targetConnections="id-edb68e410b4744c9ad9436aefb629e07 id-131b801a360548779221c2bb99e644e2 id-80820a9e29dc495487c456d899fda734"
       font="1|Sans|9.0|0|GTK|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -328,7 +328,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-78f60e394f094a1e83c60aa695f0aac5"
-      targetConnections="id-ebc1506cd0344ef89e17d9ffe39f7dc5 id-31285d6312d04ae6a488ec80c12e9c12 id-3c495590475c483abf80e205b24ffa45 id-00bea4c7a8fa4096bd2bdd01c8a86e1c"
+      targetConnections="id-00bea4c7a8fa4096bd2bdd01c8a86e1c id-3c495590475c483abf80e205b24ffa45 id-31285d6312d04ae6a488ec80c12e9c12 id-ebc1506cd0344ef89e17d9ffe39f7dc5"
       font="1|Sans|9.0|0|GTK|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
