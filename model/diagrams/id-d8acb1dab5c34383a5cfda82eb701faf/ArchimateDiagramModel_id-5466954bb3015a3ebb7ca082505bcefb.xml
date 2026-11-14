@@ -14,15 +14,6 @@
       fillColor="#f7c6b5">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-573569893e6441388b5598d59113063a"
-        source="id-c947bb69cc39547eb5ec08dee4aedfb6"
-        target="id-68df30d5d8595c2c93da377662bd009d">
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-cd6df6492ebc5a0a8567d4aefddc2c75.xml#id-cd6df6492ebc5a0a8567d4aefddc2c75"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-aab94da89f514729a931c18142b54463"
         source="id-c947bb69cc39547eb5ec08dee4aedfb6"
         target="id-3e6232bd4c6158fe9121cc5289c4d596">
@@ -32,12 +23,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-680ea096d9b545e6a0f60c2b907953a1"
+        id="id-573569893e6441388b5598d59113063a"
         source="id-c947bb69cc39547eb5ec08dee4aedfb6"
-        target="id-253d2ca085e15360a5b2946e9179e99b">
+        target="id-68df30d5d8595c2c93da377662bd009d">
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-5109a075031350508dfb229993321f92.xml#id-5109a075031350508dfb229993321f92"/>
+          href="AssignmentRelationship_id-cd6df6492ebc5a0a8567d4aefddc2c75.xml#id-cd6df6492ebc5a0a8567d4aefddc2c75"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -47,6 +38,15 @@
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-db2998cf087558a7b6765c7a64bde4a2.xml#id-db2998cf087558a7b6765c7a64bde4a2"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-680ea096d9b545e6a0f60c2b907953a1"
+        source="id-c947bb69cc39547eb5ec08dee4aedfb6"
+        target="id-253d2ca085e15360a5b2946e9179e99b">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-5109a075031350508dfb229993321f92.xml#id-5109a075031350508dfb229993321f92"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -364,7 +364,7 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="IMPLANTAÇÃO&#xD;&#xA;&#xD;&#xA;Os principais componentes da Fase C são executados em contêineres dentro do cluster da Magalu Cloud. O serviço de biometria e outros serviços auxiliares não são detalhados aqui. Ver D2 para a infraestrutura.">
+      content="IMPLANTAÇÃO&#xA;&#xA;Os principais componentes da Fase C são executados em contêineres dentro do cluster da Magalu Cloud. O serviço de biometria e outros serviços auxiliares não são detalhados aqui. Ver D2 para a infraestrutura.">
     <bounds
         x="800"
         y="50"

@@ -120,7 +120,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ce54c91528544ff69e038e5c6a9c9873"
-        targetConnections="id-d09733d9202349e4ac5550ea854d2734 id-7abdd3f27fab4d12b039224ca7258414 id-3b53dc76f6964268999f4c3093fa001d"
+        targetConnections="id-7abdd3f27fab4d12b039224ca7258414 id-3b53dc76f6964268999f4c3093fa001d id-d09733d9202349e4ac5550ea854d2734"
         font="1|Sans|9.0|0|GTK|1|"
         fontColor="#000000"
         lineColor="#5c5c5c"
@@ -162,7 +162,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-929f20ba38144605a74f0a838e2b0459"
-        targetConnections="id-6fabb3e66c654156b1bd786c047db0db id-458ce1430fef4c228637b34b1e87bd6e id-fd5b7364dee34d2c9052da98486c78fb"
+        targetConnections="id-fd5b7364dee34d2c9052da98486c78fb id-458ce1430fef4c228637b34b1e87bd6e id-6fabb3e66c654156b1bd786c047db0db"
         font="1|Sans|9.0|0|GTK|1|"
         fontColor="#000000"
         lineColor="#5c5c5c"

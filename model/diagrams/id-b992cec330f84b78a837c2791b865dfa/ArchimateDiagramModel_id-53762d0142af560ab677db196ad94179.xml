@@ -181,7 +181,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6de4456bd1505a31a556b5cbbaa3f0de"
-      targetConnections="id-6b4ae868d3dd524da1c8167804e4f4a3 id-b114ed40cdcf50f0ac6b33f7739a2eaa"
+      targetConnections="id-b114ed40cdcf50f0ac6b33f7739a2eaa id-6b4ae868d3dd524da1c8167804e4f4a3"
       font="1|Sans|9.0|0|GTK|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"

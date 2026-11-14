@@ -31,18 +31,6 @@
       fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-93e6aed79116524889d05c7ced9a967d"
-        font="1|Sans|9.0|0|GTK|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-eab083f9761c5422968720ea8953da17"
-        target="id-fd2eb44e0e025bd1882cbe214ccb107e">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-5bf931b681245e969fa7c0e3ca0d9e37.xml#id-5bf931b681245e969fa7c0e3ca0d9e37"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-8984a52fbc2b54c1b07d7cbf97b2e9d2"
         font="1|Sans|9.0|0|GTK|1|"
         fontColor="#000000"
@@ -52,6 +40,18 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-69060be230275d9dab236a14ba6cf157.xml#id-69060be230275d9dab236a14ba6cf157"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-93e6aed79116524889d05c7ced9a967d"
+        font="1|Sans|9.0|0|GTK|1|"
+        fontColor="#000000"
+        lineColor="#000000"
+        source="id-eab083f9761c5422968720ea8953da17"
+        target="id-fd2eb44e0e025bd1882cbe214ccb107e">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-5bf931b681245e969fa7c0e3ca0d9e37.xml#id-5bf931b681245e969fa7c0e3ca0d9e37"/>
     </sourceConnections>
     <bounds
         x="320"
@@ -65,7 +65,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5bf5d8530c7b5fadb15aa05e2070da53"
-      targetConnections="id-4ed7be84bc31564a8e12dbfc949c1ce4 id-8984a52fbc2b54c1b07d7cbf97b2e9d2"
+      targetConnections="id-8984a52fbc2b54c1b07d7cbf97b2e9d2 id-4ed7be84bc31564a8e12dbfc949c1ce4"
       font="1|Sans|9.0|0|GTK|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
@@ -111,7 +111,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1fc0812d8eeb55b9ba1a03a0c807ccff"
-      targetConnections="id-5de094e12a895731b820c6858a352170 id-d777159b0d6050a6a16a184fe142bf91"
+      targetConnections="id-d777159b0d6050a6a16a184fe142bf91 id-5de094e12a895731b820c6858a352170"
       font="1|Sans|9.0|0|GTK|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
